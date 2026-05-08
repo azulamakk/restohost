@@ -1,0 +1,2000 @@
+conversationId,restaurantName,callStartTime,callDuration,callEndReason,callWithinOfficeHours,reasonForCalling,partysizenumber,textsSent,numberOfTextsSent,phone,conversation
+69c2c7b8c982fb21f235a610,RT Buckhead,2026-03-24T13:19:54.308-04:00,00:59,CallTransfer,TRUE,Lost Items Inquiries,,,0,CALLER-CDB938FD,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Hi. I think I left my sunglasses there last night.
+Assistant: I'm ...
+Customer: They're like a green pair of GoodR sunglasses, and they have purple lenses.
+Assistant: I'm ...
+Customer: I
+Assistant: I'm ...
+Customer: I Hello?
+Assistant: I'm sorry, I'm having a little trouble hearing you. Could you please repeat that?
+Customer: Yes. I left a pair of sunglasses there last night.
+Assistant: I understand that you left a pair of sunglasses at our location last night. I can transfer you to our host, who manages lost and found items. Would you like me to connect you?
+Customer: Great. Yes.
+Assistant: Great, connecting you now."
+69c6bda33b03748519ae4177,TF Oakwood,2026-03-27T13:25:57.698-04:00,00:18,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-416990E6,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Hablar con un representante.
+Assistant: Claro— En un momento te transferiré con un miembro de nuestro equipo."
+69c01d649ca9287a673ff388,TF Oakwood,2026-03-22T12:48:39.062-04:00,00:17,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-0DECA753,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Hablar con un operador.
+Assistant: Entiendo que deseas hablar con un representante. Enseguida te transferiré con alguien de nuestro equipo."
+69b6e687039d9372ee86a7ca,TF Oakwood,2026-03-15T13:04:09.835-04:00,00:29,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-97EBC7EE,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: ¿Me pueden transferir con una persona?
+Assistant: Claro, te transferiré con un miembro de nuestro equipo en un momento."
+69ac3732264d99a3020e806b,TF Oakwood,2026-03-07T09:33:25.198-05:00,01:05,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,"delivery, pickup",2,CALLER-BA81418B,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Para hacer un pedido,
+Assistant: ¿Te gustaría hablar con un miembro de nuestro equipo o enviarte el enlace para hacer tu pedido en línea para recoger?
+Customer: ¿Quiere el enlace?
+Assistant: Sí, te lo puedo enviar por mensaje de texto. ¿Te gustaría recibir el enlace para hacer tu pedido en línea para recoger?
+Customer: Sí.
+Assistant: Te enviaré el enlace para hacer tu pedido en línea para recoger. ¿Necesitas algo más?
+Customer: No.
+Assistant: Perfecto, gracias por llamar a Todo Frito Oakwood. ¡Que tengas un gran día.
+Assistant: Disculpa, estás ahí?
+Customer: Hablar con alguien.
+Assistant: Claro, te transferiré con un miembro de nuestro equipo para que te ayude con tu pedido. Un momento, por favor."
+69b34c5a936cfd53978402b4,TF Oakwood,2026-03-12T19:29:33.192-04:00,01:05,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,6,,0,CALLER-669FFFB6,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Hola, Julie. Este, te habla Yuri Quería saber si qué es lo más temprano que ustedes abren y si podría tener hacer una orden para mañana temprano.
+Assistant: Hola Yuri, soy Yuli, no Julie. Todo Frito Oakwood abre a las ocho de la mañana....
+Customer: Es una máquina, no, no.
+Assistant: No hay problema, ...
+Customer: No tengo treinta. Tower.
+Assistant: Parece que no entendí bien tu ...
+Customer: Le quiero decirle, déjeme.
+Assistant: ¿En qué puedo ayudarte? ¿Quieres información sobre nuestro menú o hacer una orden para recoger?
+Customer: A qué hora abren en la mañana.
+Assistant: Abrimos a las ocho de la mañana. ¿Te gustaría saber nuestros horarios de hoy o hacer una orden para mañana?
+Customer: Hacer una orden para mañana.
+Assistant: Todo Frito Oakwood abre mañana a las ocho de la mañana. ¿Te gustaría hacer una orden para recoger mañana? Puedes hacer tu pedido en línea o hablar con un miembro de nuestro equipo. ¿Qué prefieres?
+Customer: Six
+Assistant: ¿Te refieres a ...
+Customer: Hablar con un miembro de del equipo.
+Assistant: Entiendo. Te voy a transferir con un miembro de nuestro equipo para que puedas hacer tu pedido. Un momento, por favor."
+69b605ab10d10be09b7fb74c,RT Buckhead,2026-03-14T21:04:45.909-04:00,00:17,UserHangup,TRUE,Questions About Restaurant Hours and Wait Times,,,0,CALLER-B71D5CD0,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: How long is the wait?
+Assistant: Let me check that for you... The current wait time is about thirty minutes."
+69b02c3fea57e9e4aa9cbcc3,TF Oakwood,2026-03-10T10:35:45.557-04:00,00:57,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-75EE1A56,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Hola. Buen día. Eh, ¿podría hacer un pepito?
+Assistant: Buen ...
+Customer: Para pasar recogiendo?
+Assistant: ¿Te refieres a hacer un pedido para recoger o estás preguntando por el Pepito"" como plato en nuestro menú?
+Customer: No quiero hacer un pedido para sauces recogiendo.
+Assistant: Disculpa la confusión. ¿Te gustaría saber más sobre nuestro menú o tienes alguna otra pregunta sobre Todo Frito Oakwood?
+Customer: Quiero hacer un pedido para llevar
+Assistant: Para hacer un pedido para llevar, ¿prefieres hablar con alguien de nuestro equipo o te envío el enlace para que puedas hacer tu pedido en línea?
+Customer: Quiero hacer un pedido para llevar ¿Puedes comunicarme con alguien, por favor?
+Assistant: Entiendo. Un momento, por favor."
+69b624a249be61fe96ab3117,RT Buckhead,2026-03-14T23:16:52.427-04:00,00:23,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-DD683297,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Post.
+Assistant: Okay, would you like to speak with the host?
+Customer: Yes.
+Assistant: Great, connecting you now."
+69ae10bade89918688cc63fb,TF Oakwood,2026-03-08T20:13:48.469-04:00,00:18,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-AA7AD7B2,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Hablar con un representante.
+Assistant: Claro, te transferiré con un miembro de nuestro equipo en un momento."
+69c01437e852e2d6dedd2ae2,TF Oakwood,2026-03-22T12:09:29.528-04:00,00:16,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-DAEABAE3,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Hablar con la tienda.
+Assistant: ¿Te gustaría hablar con un miembro de nuestro equipo? La llamada será transferida en breve."
+69bda8afac4fe85908521f3d,TF Oakwood,2026-03-20T16:06:09.510-04:00,00:21,UserHangup,TRUE,Making a Reservation or Inquiring About Reservations,8,,0,CALLER-D8C5436F,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Do you take reservations for parties of eight?
+Assistant: Todo Frito Oakwood doesn't accept reservations in advance; you're ..."
+69aaf1bf264d99a302d6e967,RT Buckhead,2026-03-06T10:24:49.710-05:00,01:07,UserHangup,,General Information and Amenities,,,0,CALLER-4C0308B2,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Yeah. Hi. I'm gonna come to lunch today.
+Customer: Are you across the street from the
+Assistant: I am a virtual assistant, and I am unable to understand the question. Could you please repeat it?
+Customer: Your location.
+Assistant: Our address is thirty three sixty five Piedmont Road NorthEast, Suite eleven twenty.
+Customer: Are you across the street from the public shopping center?
+Assistant: We are located at thirty three sixty five Piedmont Road NorthEast, Suite eleven twenty.
+Assistant: Sorry, are you still on the line?
+Customer: Yes.
+Assistant: How can I help?
+Customer: Can I speak to a
+Assistant: I am sorry, we are currently closed. However, I can send you a support form via SMS so our team can follow up with you when we ..."
+69bf39bfd04f7f4078c8c9a6,RT Buckhead,2026-03-21T20:37:21.195-04:00,00:32,UserHangup,TRUE,Questions About Restaurant Hours and Wait Times,2,,0,CALLER-3AA596C3,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Hello. What's the wait time for a for two persons right now for a Hello. What's the wait time for a for two persons right now for a two two people table?
+Assistant: Let me check that for you. The current wait time is thirty minutes.
+Customer: Ok. Thank you.
+Assistant: Perfect—thanks for calling Real Tacos. Enjoy your day."
+69c2f3e078112147b3b461bb,RT Buckhead,2026-03-24T16:28:19.038-04:00,01:42,UserHangup,TRUE,Making a Reservation or Inquiring About Reservations,7,,0,CALLER-D7CC8DCF,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Hey there. Do you guys for a group of, like, six or seven, do we need a reservation, or can we just show up?
+Assistant: For parties of five or more, a manager needs to coordinate the reservation. In case Buckhead cannot handle your party, are you willing to be relocated to one of our nearby locations, Chamblee and Sandy Springs, that are within ten minutes?
+Customer: No. Because we're all walking there from the Grand Hyatt. We'd like to at the Buckhead location. If possible.
+Assistant: Under what name should I put the reservation?
+Customer: Drake, d r a k e.
+Assistant: What date and time works best?
+Customer: it would be today at five thirty.
+Assistant: Okay, so that's for six or seven people today, March twenty fourth, at five thirty P.M. under the name Drake. Does that look correct?
+Customer: It yeah. Hold on just one second.
+Customer: four, five. Yep. Seven will be perfect. That that looks correct. Thank you.
+Assistant: Please wait while I submit your large party reservation request to our manager. I just sent your information to our managers, please check your messages you should receive an SMS with the details of your reservation, they will be reaching out soon!
+Customer: Thank you.
+Assistant: Perfect—thanks for calling Real Tacos. Enjoy your day."
+69c1560fc982fb21f2f6b828,RT Buckhead,2026-03-23T11:02:42.132-04:00,00:32,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-46939605,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: I'm talking to the host.
+Assistant: Okay, connecting you to the host now.
+Assistant: Sorry, are you still on the line?
+Customer: Yes.
+Assistant: Okay, one moment."
+69c7464d1f8b1488f5376517,RT Buckhead,2026-03-27T23:09:03.838-04:00,00:27,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-6A11A9F9,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Place an order.
+Assistant: Awesome. I can text you our online ordering link so you can place your pickup order. Would you like me to send you the link?
+Customer: Representative.
+Assistant: Okay, connecting you now with the host."
+69b8992349be61fe96f813f6,RT Buckhead,2026-03-16T19:58:29.978-04:00,00:31,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-461641DB,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Hey. I was wondering if I ordered right now on Uber, and I ordered incorrectly.
+Assistant: Oh no. I am sorry to hear that. I can transfer you to the host so they can assist you. Would you like me to do that?
+Customer: Yes.
+Assistant: Great, connecting you now."
+69a9e0584bcab3cfc68f052c,TF Oakwood,2026-03-05T14:58:18.666-05:00,00:21,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-CE94FBC2,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Hablar con un representante.
+Assistant: Claro, ¿desea hablar con un representante?
+Customer: Sí."
+69c2e9a00887978cf5909fa9,RT Buckhead,2026-03-24T15:44:34.330-04:00,00:51,UserHangup,TRUE,Making a Reservation or Inquiring About Reservations,5,,0,CALLER-336459E1,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Welcome.
+Assistant: What are you in the mood for today?
+Customer: Is this kid friendly?
+Assistant: Yes, children are always welcome at Rreal Tacos.
+Customer: Do I need to make a reservation?
+Assistant: How many guests will be in your party?
+Customer: Three adults and two kids.
+Assistant: Okay, and what date and time works best for you?
+Customer: Today.
+Customer: At four o'clock.
+Assistant: Under what name should I put the reservation?
+Customer: Williams."
+69b87fef49be61fe96f7b0d1,RT Buckhead,2026-03-16T18:10:57.260-04:00,00:18,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-75FA50F4,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: I need to talk to a human."
+69ab589b4bcab3cfc6d962eb,RT Buckhead,2026-03-06T17:43:41.740-05:00,00:41,CallTransfer,TRUE,Questions About Restaurant Hours and Wait Times,4,,0,CALLER-97394624,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Hello. I wanted to see if you had any room on y'all patio right now for four people. But the only thing is it will have to be forward to her. I get it. And I've I've had some days But yeah.
+Assistant: How many guests will be in ...
+Customer: Even yeah. Maybe I could spend it home, but I mean, whatever.
+Assistant: I am sorry, I was unable to collect the data correctly. Would you like to speak with the host?
+Customer: Yes. Sorry."
+69c488972aad034d43a76c97,RT Buckhead,2026-03-25T21:15:05.578-04:00,00:31,CallTransfer,TRUE,Employment Opportunities or Business Inquiries,,,0,CALLER-7E08B032,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: I was wondering if you guys are hiring.
+Assistant: We are always looking for new talent. All employment-related inquiries are handled through the job opportunities form. Would you like to receive the form by SMS?
+Customer: I would like to speak to operator."
+69b16f6207175cba3cde70f3,TF Oakwood,2026-03-11T09:34:28.780-04:00,00:20,UserHangup,TRUE,,,,0,CALLER-A48980A2,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?"
+69c142f3d04f7f40780da798,TF Oakwood,2026-03-23T09:41:09.528-04:00,00:36,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-DC549AF8,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Buenos días. ¿En orden para recoger, por favor?
+Assistant: Buenos días. ¿Te gustaría hablar con un miembro del equipo o enviarte el enlace para hacer tu pedido en línea para recoger?
+Customer: Para recoger.
+Assistant: ¿Te gustaría hablar con un miembro del equipo o enviarte el enlace para hacer tu pedido en línea para recoger?
+Customer: ¿Alar con alguien del equipo?
+Assistant: ¿Quieres hablar con alguien del equipo? La llamada será transferida en breve."
+69c884ce3561ccb2163c21db,TF Oakwood,2026-03-28T21:48:01.226-04:00,00:28,UserHangup,TRUE,Catering request,,,0,CALLER-8BD8223E,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Hola, Julie, buenas noches.
+Assistant: Dále— ...
+Customer: Es que quería preguntar si tienen cajas de pasapalos a esta hora.
+Assistant: Claro— Lo siento, pero esta ubicación de Todo Frito Oakwood no ofrece servicios de catering. ¿Hay algo más en lo que pueda ayudarte?
+Customer: No.
+Assistant: Bueno, gracias por llamar a Todo Frito ..."
+69b8126265517135421f023b,TF Oakwood,2026-03-16T10:23:33.098-04:00,00:20,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-294DE355,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Necesito hablar con un representante.
+Assistant: ¿Podrías decirme un poco más sobre tu solicitud para poder asistirte de manera adecuada?"
+69b5dd6f49be61fe96a80bb4,RT Buckhead,2026-03-14T18:13:05.259-04:00,00:20,UserHangup,TRUE,Questions About Restaurant Hours and Wait Times,2,,0,CALLER-5A30BBD8,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Hey. What's the wait? For two?
+Assistant: Let me check that for you, the wait is currently sixty minutes.
+Customer: Everywhere. Thank you."
+69b4acc8477db9185edcf7a4,RT Buckhead,2026-03-13T20:33:14.830-04:00,00:33,UserHangup,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-91639BDF,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Hi. Can I place the order for pickup?
+Assistant: Awesome. I can text you our online ordering link so you can place your pickup order. Would you ...
+Customer: No. Bella's home.
+Assistant: I am sorry, I didn't ...
+Customer: Yes. Picking up.
+Assistant: Great. I’ve just sent you the pickup link. Is there anything else I can help you with?
+Customer: No. That's it. Thank you. Super dear.
+Assistant: Perfect—thanks for calling Real Tacos. Enjoy your day...."
+69b9ca1810d10be09b21ddd8,TF Oakwood,2026-03-17T17:39:38.385-04:00,00:31,UserHangup,TRUE,General Information and Amenities,,,0,CALLER-0D606A73,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Hola, feliz three, chica. Queríamos saber si transmiten allí los juegos de Facebook que han estado de la serie
+Assistant: ¡Hola. Gracias por llamar a Todo Frito Oakwood. No tenemos información sobre la transmisión de juegos de Facebook en nuestro restaurante. Sin embargo, tenemos eventos de música en vivo los sábados a las 8:30 pm. ¿Te gustaría saber más sobre eso o recibir nuestro enlace de redes sociales para ver ..."
+69b6db296551713542d2ffca,TF Oakwood,2026-03-15T12:15:40.158-04:00,00:37,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-B7293E60,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Thank you, ma'am.
+Assistant: De nada, ¿en qué puedo ayudarte hoy en Todo Frito Oakwood?
+Customer: Sauces una orden.
+Assistant: ¿Te gustaría información sobre nuestras salsas o hacer un pedido?
+Customer: Hacer un pedido.
+Assistant: Puedes hablar con un miembro del equipo o recibir el enlace para hacer tu pedido en línea. ¿Qué prefieres?
+Customer: Hablar con un miembro del equipo.
+Assistant: Enseguida te transfiero con alguien que te ayudará con tu pedido. ¡Gracias por elegir Todo Frito Oakwood."
+69c1ce7a282265f33cf8906d,TF Oakwood,2026-03-23T19:36:29.209-04:00,00:25,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-CFE9C57A,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Quiero hacer una orden.
+Assistant: ¿Te gustaría hablar con un miembro del equipo o enviarte el enlace para hacer tu pedido en línea?
+Customer: Un miembro del equipo.
+Assistant: Tu llamada será transferida a un miembro de nuestro equipo en breve."
+69b9b7ac039d9372ee0ebe14,TF Oakwood,2026-03-17T16:21:02.716-04:00,00:29,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-FA28071B,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Not only.
+Assistant: Entiendo. ¿Podrías decirme un poco más sobre lo que estás buscando o necesitas ayuda con algo específico en Todo Frito Oakwood?
+Customer: Hablar con un representante.
+Assistant: Entiendo que deseas hablar con un representante. Te transferiré con un miembro de nuestro equipo en un momento."
+69bdf024f40440690c8e6e5e,TF Oakwood,2026-03-20T21:11:02.861-04:00,00:32,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-AB3396C2,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Bueno. Para hacer un pedido para ir a recuperar
+Assistant: ¿Te gustaría hablar con un miembro del equipo o enviarte el enlace para hacer tu pedido en línea?
+Customer: Bueno. Para hacer un pedido para ir a recuperar Call miembro del equipo, por favor.
+Assistant: En un momento te transferiré con un miembro del equipo para ayudarte con tu pedido."
+69cad7f076361df4a6cdb3a8,TF Oakwood,2026-03-30T16:07:15.299-04:00,00:21,UserHangup,TRUE,Making a Reservation or Inquiring About Reservations,8,,0,CALLER-D8C5436F,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Do you take reservations for parties of eight?
+Assistant: We don't accept bookings in advance, as we only operate on a walk-in ..."
+69c98fb33561ccb2166ff7ec,TF Oakwood,2026-03-29T16:46:46.001-04:00,01:16,CallTransfer,TRUE,Menu Inquiries and Special Dietary Needs,,,0,CALLER-0B8693E4,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Hola, chica. Yo estoy llamando para, porque me habían dicho que habían unas piezas de veinticinco piezas que veinticinco y algo.
+Assistant: Dále— ¿Podrías repetirme el nombre del plato que estás buscando, por favor?
+Customer: Son piezas, creo que de pequeños o pastelitos.
+Assistant: Ah gotcha— ...
+Customer: Empanadas, no sé. Yo soy inteligencia artificial.
+Assistant: No problem— Tenemos empanadas en el menú, específicamente Empanada Service"" que viene con 6 unidades de empanadas de carne o pollo, y cuesta siete dólares con noventa y nueve centavos. ¿Te gustaría saber más sobre nuestras empanadas o algo más del menú?
+Customer: De los pequeños, de los veinticinco unidades de pequeño, y empanada mixto.
+Assistant: Claro— En nuestro menú, tenemos Mini empanadas assortment"" que es ideal para compartir, pero no tengo la información exacta de que vengan veinticinco unidades. ¿Quieres que te mande el enlace del menú online para que puedas ver más detalles?
+Customer: Quiero hablar con una persona.
+Assistant: Claro— Enseguida te transfiero con un miembro de nuestro equipo."
+69c7fc573b03748519ea10e5,RT Buckhead,2026-03-28T12:05:45.658-04:00,00:44,UserHangup,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-EAE82964,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Place a order for pickup.
+Assistant: Awesome. I can text you our online ordering link so you can place your pickup order.
+Assistant: Sorry, are you still on the line?
+Customer: Yes, I am.
+Assistant: Great. I’ve just sent you the pickup link. Is there anything else I can help you with?
+Customer: No.
+Assistant: Perfect—thanks for calling Real Tacos. Enjoy your day."
+69c9c16076361df4a696a5d3,RT Buckhead,2026-03-29T20:18:42.315-04:00,00:15,UserHangup,TRUE,Questions About Restaurant Hours and Wait Times,,,0,CALLER-6284778A,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: What is the current wait time?
+Assistant: Let me check that for you. The current wait time is thirty minutes."
+69c997a976361df4a695e551,RT Buckhead,2026-03-29T17:20:43.454-04:00,01:39,UserHangup,TRUE,Making a Reservation or Inquiring About Reservations,15,,0,CALLER-9BDEC356,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Hi. I was curious if I could make a reservation over the phone.
+Assistant: Claro que sí. How many guests will be in your party?
+Customer: I think it's gonna be fifteen.
+Assistant: Got it. Parties of five or more are coordinated by a manager. In case Buckhead cannot handle your party, are you willing to be relocated to one of our nearby locations, Chamblee and Sandy Springs, that are within ten minutes?
+Customer: Sure.
+Assistant: Great. Would you like to exclude any of the given options?
+Customer: No.
+Assistant: Okay. What date and time works best?
+Customer: March thirtieth at six thirty.
+Assistant: Under what name should I put the reservation?
+Customer: Kathy.
+Assistant: Okay, fifteen guests on March thirtieth at six thirty under the name Kathy. Does that look correct?
+Customer: Yes.
+Assistant: Please wait while I submit your large party reservation request to our manager. I just sent your information to our managers, please check your messages you should receive an SMS with the details of your reservation, they will be reaching out soon!
+Customer: Ok.
+Assistant: Perfect—thanks for calling Real Tacos. Enjoy your day."
+69c1d82d282265f33cf8b623,TF Oakwood,2026-03-23T20:17:51.592-04:00,00:31,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,2,,0,CALLER-849B8FE5,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Para ordenar dos dos parrillas mixto.
+Assistant: ¿Te gustaría hablar con un miembro del equipo para hacer tu pedido o te envío el enlace para hacer tu pedido en línea?
+Customer: Estoy manejando. Si quieren ponerme a hablar con alguien, eso es todo.
+Assistant: Entiendo. Te voy a transferir con un miembro del equipo para que puedas hacer tu pedido. Un momento, por favor."
+69b75ae56551713542d6ebbc,TF Oakwood,2026-03-15T21:20:39.560-04:00,00:45,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-FCC37279,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Hello?
+Assistant: Hello. Welcome to Todo Frito Oakwood, I'm Yuli. How can I help you today?
+Customer: I wanna do to order.
+Assistant: To place an order, would you like to speak with a team member or would you prefer to make your order online?
+Customer: I prefer team member.
+Assistant: I'll transfer your call to a team member shortly."
+69b9eb3d039d9372ee1025c7,RT Buckhead,2026-03-17T20:01:03.427-04:00,00:17,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-9B2E47E7,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: May I speak to a live agent?"
+69c844ef9d214fefe33224b5,RT Buckhead,2026-03-28T17:15:29.537-04:00,00:24,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-320E2787,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Talk to a manager.
+Assistant: Sure thing. I can connect you with the manager. Would you like me to do that?
+Customer: Yes.
+Assistant: Great, connecting you now."
+69b9a5af10d10be09b20d75a,RT Buckhead,2026-03-17T15:04:17.793-04:00,00:32,UserHangup,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-D8D8C7AB,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: May I speak to the workers so I can actually order food? Freaking nacho?
+Assistant: I'm a virtual ...
+Customer: Not the fake voices in the bag.
+Assistant: I'm a virtual ...
+Customer: What is the what is the how
+Assistant: I'm a virtual ...
+Customer: don't I don't get.
+Assistant: I'm a ..."
+69b428ba6896046c69c0fba0,RT Buckhead,2026-03-13T11:09:48.502-04:00,00:31,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-72B2AFAB,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Can I call with customer service?
+Assistant: I understand you're looking to speak with customer service. Would you like me to connect you with the host?
+Customer: Yes.
+Assistant: Great, connecting you now."
+69cbf883576487e62f627e7a,TF Oakwood,2026-03-31T12:38:29.763-04:00,00:31,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-5F4DA952,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Necesito una orden.
+Assistant: Claro, ¿prefieres que te pase con un miembro del equipo para hacer tu orden o quieres que te envíe el link para ordenar en línea?
+Customer: No, una parte de equipo.
+Assistant: Entendido, te transfiero con un miembro de nuestro equipo ahora mismo."
+69bc898a61b76e251d1002f4,RT Buckhead,2026-03-19T19:41:01.122-04:00,00:28,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-761D1353,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Speak to customer service.
+Assistant: No problem. I can transfer you to the host right away. Would you like me to do that?
+Customer: Yes.
+Assistant: Great, connecting you now."
+69ca831436dfa226c43bb254,TF Oakwood,2026-03-30T10:05:10.658-04:00,01:02,UserHangup,TRUE,Placing an Order for Takeout or Delivery,,"delivery, pickup",2,CALLER-DBA354CB,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: ¿Ustedes tienen la parrilla grande disponible en
+Assistant: Dále— sí, ...
+Customer: ¿Ustedes tienen la parrilla grande disponible en Porque la estoy buscando y no no me aparece.
+Assistant: Dále— sí, tenemos la Parrilla Criolla, es una parrilla tradicional para compartir que sirve para 3 personas, cuesta treinta y ocho dólares con noventa y nueve centavos. ¿Quieres saber más sobre ella?
+Customer: Delivery.
+Assistant: ¿Te gustaría hablar con un miembro del equipo para hacer tu pedido de delivery o prefieres que te envíe el link para hacer tu pedido en línea?
+Customer: El pedido en línea.
+Assistant: Te voy a enviar el link para hacer tu pedido de delivery por mensaje de texto.
+Customer: Ok, gracias.
+Assistant: De nada, que tengas un buen día y disfruta tu comida de Todo Frito Oakwood. ¡Adiós."
+69beac9b00b4b91c62413526,TF Oakwood,2026-03-21T10:35:09.501-04:00,00:17,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-C524390B,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Hablar con un miembro del equipo.
+Assistant: En un momento te transferiré con un miembro de nuestro equipo. ¡Gracias por esperar."
+69a992de56036b341cfed729,TF Oakwood,2026-03-05T09:27:44.760-05:00,00:26,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-52F9B11B,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Okay cake.
+Assistant: Tenemos una variedad de postres deliciosos. Nuestros favoritos incluyen pastel de tres leches, quesillo y churros. Quieres saber más sobre ...
+Customer: Hablar con representante.
+Assistant: Claro, te puedo transferir con un representante. ¿Quieres hablar con alguien para ayudarte con tu consulta?"
+69c5dda33561ccb216cc6254,TF Oakwood,2026-03-26T21:30:14.067-04:00,00:10,UserHangup,TRUE,,,,0,CALLER-B93BAE0C,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?"
+69c1832165aebbe9297890ab,RT Buckhead,2026-03-23T14:14:59.411-04:00,02:06,UserHangup,TRUE,Making a Reservation or Inquiring About Reservations,9,,0,CALLER-DC7A12D4,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Yes. I'd like to make reservations for nine people.
+Assistant: Great. For how many people is the reservation?
+Customer: restaurant near
+Assistant: I can help you with the Buckhead ...
+Customer: nine by Modex
+Assistant: For how many people is the reservation?
+Customer: nine
+Assistant: Okay, parties of five or more are coordinated by a manager. In case Buckhead cannot handle your party, are you willing to be relocated to one of our nearby locations, Chamblee and Sandy Springs, that are within ten minutes?
+Customer: Sure.
+Assistant: Would you like to exclude any of the given options?
+Customer: Am I speaking to a live person?
+Assistant: I am a virtual assistant. What date and time works best for your reservation?
+Customer: It would be
+Assistant: It would be?
+Customer: the
+Assistant: The?
+Customer: it would be on April fourteenth.
+Assistant: And what time would you ...
+Customer: At five thirty PM.
+Assistant: Under what name should I put the reservation?
+Customer: Casey, k or c a s e y.
+Assistant: Nine people on April fourteenth at five thirty P.M. under the name Casey. Does that look correct?
+Customer: Yes. What location am I doing that at?
+Assistant: Please wait while I submit your large party reservation request to our manager. I just sent your information to our managers, please check your messages you should receive an SMS with the details of your reservation, they will be reaching out soon!
+Customer: Thank you.
+Assistant: Perfect—thanks for calling Real Tacos. Enjoy your day."
+69c5a0043561ccb216cb1cd0,TF Oakwood,2026-03-26T17:07:19.274-04:00,01:18,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-DA82255E,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: de de eso de pastelitos de fiesta, de de carne molida y papa con queso, veinticinco y veinticinco.
+Assistant: Dále— Parece que estás buscando información sobre nuestras empanadas. Tenemos empanadas de carne y pollo, pero no tengo información específica sobre empanadas de carne molida y papa con queso. ¿Te gustaría saber más sobre nuestras empanadas disponibles o recibir un enlace con nuestro menú completo?
+Customer: Pastelitos.
+Assistant: Hénial— Nuestros pastelitos son una deliciosa opción para desayunar, están rellenos de carne, pollo o queso, y cuestan $2.99. ¿Te gustaría saber más sobre nuestros desayunos o hacer un pedido?
+Customer: ¿Hacer un pedido?
+Assistant: Claro— Puedes hacer un pedido para recoger en nuestra tienda o pedir delivery. ¿Te gustaría hablar con alguien de nuestro equipo para hacer tu pedido o prefieres que te envíe el enlace para hacer tu pedido en línea?
+Customer: Quiero hablar con alguien."
+69cc60c011965ea81e7f3ff0,TF Oakwood,2026-03-31T20:03:14.367-04:00,00:41,UserHangup,TRUE,Placing an Order for Takeout or Delivery,,"delivery, pickup",2,CALLER-0D5DC08A,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Hola, una orden.
+Assistant: ¡Buenísimo. ¿Prefieres hablar con un miembro de nuestro equipo para realizar tu pedido o prefieres que te envíe el Link para hacerlo en línea?
+Customer: El link está bien.
+Assistant: Perfecto, te enviaré el link por mensaje de texto ahora mismo. ¿Necesitas ayuda con algo más hoy en Todo Frito Oakwood?
+Customer: No, gracias.
+Assistant: Perfecto, gracias por llamar a Todo Frito Oakwood. ¡Que tengas un excelente día."
+69c2e0a10887978cf5907a1c,RT Buckhead,2026-03-24T15:06:12.775-04:00,00:40,UserHangup,TRUE,Employment Opportunities or Business Inquiries,,job form,1,CALLER-A4F813E7,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Hey. I was calling to see if you guys were hiring.
+Assistant: We are always looking for new talent. All employment-related inquiries are handled through the job opportunities form. Would you like to receive the form by SMS?
+Customer: Yes.
+Assistant: Great. I've just sent you the link. Is there anything else I can help you with?
+Customer: No. Thank you.
+Assistant: Perfect—thanks for calling Real Tacos. Enjoy your day."
+69ba02a249be61fe9636a4d9,TF Oakwood,2026-03-17T21:40:52.304-04:00,00:32,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-C7E64167,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Hola. Eh, hice una orden por Dordas y recibí la la orden equivocada.
+Assistant: Lamento lo de tu orden, pero no puedo procesar pedidos ni cambios. ¿Quieres que te transfiera con un miembro del equipo para ayudarte?
+Customer: K, for favor.
+Assistant: Claro, te ..."
+69a8613530a56348b0bb48be,TF Oakwood,2026-03-04T11:43:36.081-05:00,00:46,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-BAA995CB,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Me gustaría hacer un pepito.
+Assistant: ¿Te refieres a ordenar un Pepito o saber más sobre el menú de Pepitos?
+Customer: No. Me gustaría ordenar patty a
+Assistant: Parece que hay un pequeño malentendido. Para ordenar, te recomiendo hablar con uno de nuestros representantes o usar nuestra plataforma en línea. ¿Te gustaría hablar con alguien para ayudarte con tu orden o prefieres recibir el enlace para ordenar en línea?
+Customer: No. Me gustaría ordenar patty a Me gustaría hablar con un representante.
+Assistant: Entiendo. Te voy a transferir con uno de nuestros representantes para que te ayuden con tu orden.
+Customer: Okay cake."
+69b5abd249be61fe96a67ded,RT Buckhead,2026-03-14T14:41:24.238-04:00,00:30,CallTransfer,TRUE,Making a Reservation or Inquiring About Reservations,,,0,CALLER-7E02E947,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Reservation change.
+Assistant: If your reservation was made through OpenTable, you can usually modify or cancel it there. Does this information resolve your issue, or would you like help from a live agent?
+Customer: Help from live agent.
+Assistant: Great, connecting you now to the host."
+69c728d793749704bac4c2bf,RT Buckhead,2026-03-27T21:03:21.177-04:00,00:17,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-B3025E24,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Representative.
+Assistant: Do you want to speak with a representative?
+Customer: Yes."
+69a727425e60912f54d0b580,TF Oakwood,2026-03-03T13:24:04.353-05:00,00:40,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-9BDB5C2F,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Hola. Quiero hacer una orden.
+Assistant: Para tu orden, ¿te gustaría hablar con alguien de nuestro equipo o hacerla a través de nuestra plataforma en línea?
+Customer: Quiero hablar con alguien.
+Assistant: Voy a transferir tu llamada. Por favor, espera un momento."
+69a85c415e60912f54db3a27,RT Buckhead,2026-03-04T11:22:28.261-05:00,00:54,CallTransfer,TRUE,Lost Items Inquiries,,,0,CALLER-BCCFF844,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Hey, Nacho. How are you doing today?
+Assistant: I'm doing great, thanks for asking....
+Customer: Hey.
+Assistant: How can I help you?
+Customer: Hey. So I was there I was there on Monday, and I was sitting right next to the door. And maybe my debit card fell out. I'm trying to retrace everything. My name is Eric It's a red Bank of America debit card. Did it fall out on the table by some reason? You have it there?
+Assistant: I understand you may have lost your debit card at our location. Let me transfer you to the host, who manages lost and found. Would you like me to connect you?
+Customer: Ok.
+Assistant: Great, connecting you now."
+69b4289d477db9185ed85743,RT Buckhead,2026-03-13T11:09:20.067-04:00,00:26,CallTransfer,TRUE,Catering request,,,0,CALLER-35A9BBF4,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Catering.
+Assistant: ¡Qué bueno. Are you planning a fiesta? To give you the best recommendations, about how many people will be attending?
+Customer: Operator.
+Assistant: Do you ...
+Customer: We could possibly you know, one or two more to just light it up on your end. This isn't even a good AI. Come on."
+69c840e9357fae02c419dce1,RT Buckhead,2026-03-28T16:58:19.716-04:00,00:17,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-320E2787,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Talk to a person.
+Assistant: Got it. Would you like to speak with the host?
+Customer: Yes."
+69b7000910d10be09b8ce5f7,RT Buckhead,2026-03-15T14:52:59.735-04:00,00:43,AgentHangup,TRUE,Unclassified,,,0,CALLER-4E741C0A,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Received hasn't been accepted.
+Customer: Please make sure your tablet or personal device is turned on and you are logged in to the Uber Eats orders app.
+Customer: If you are too busy to receive orders, you can use the app's pause feature to stop new orders or busy mode to increase your prep time.
+Customer: If your business is closed, update your store hours in Uber Eats manager.
+Assistant: I'm sorry, I don't ...
+Customer: If you need any help, please contact our support team.
+Assistant: I'm ...
+Customer: If you would like to stop receiving these phone calls in the future, please press nine to opt out.
+Assistant: I'm sorry, I don't understand."
+69cc47d8d9bcd252518fca41,RT Buckhead,2026-03-31T18:16:58.908-04:00,00:29,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-8AE81AB1,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Speak to customer service.
+Assistant: I understand you're looking for customer service. I can transfer you to the host for assistance. Would you like me to do that?
+Customer: Yes.
+Assistant: Great, connecting you now."
+69b23b9fdb7533c9cbe11c86,RT Buckhead,2026-03-12T00:05:53.780-04:00,00:21,UserHangup,,Making a Reservation or Inquiring About Reservations,8,,0,CALLER-D8C5436F,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Assistant: Sorry, are you still on the line?
+Customer: Do you take reservations for parties of eight?
+Assistant: Parties of five or more are coordinated by a manager...."
+69b9a27f49be61fe963486b3,RT Buckhead,2026-03-17T14:50:42.251-04:00,00:25,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-49E44514,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Speak to manager.
+Assistant: Sure thing. I can connect you to the manager. Would you like me to do that?
+Customer: Yes.
+Assistant: Great, one moment while I get the manager for you."
+69b0ba4b07175cba3cac5db6,TF Oakwood,2026-03-10T20:41:49.694-04:00,00:30,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-DB173E38,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Para hacer un pedido y recogerlo,
+Assistant: ¿Te gustaría hablar con un miembro del equipo o enviarte el enlace para hacer tu pedido en línea para recoger?
+Customer: Hablar con un miembro del equipo.
+Assistant: Enseguida te transfiero con alguien que pueda ayudarte con tu pedido. ¡Gracias por llamar a Todo Frito Oakwood."
+69b9e26210d10be09b22787e,TF Oakwood,2026-03-17T19:23:16.839-04:00,00:17,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-A792E8FF,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Hola. Me gustaría hablar con alguien del equipo.
+Assistant: Entiendo. ¿Podrías decirme un poco más sobre lo que necesitas hablar con nuestro equipo? Estoy aquí para ayudarte."
+69a86d2b408ccb4b79fc2a90,RT Buckhead,2026-03-04T12:34:37.969-05:00,00:18,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-7D0DC3E8,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Speak to representative.
+Assistant: Okay, do you want to speak with a representative?
+Customer: Yes."
+69bd8774889fd7682d176c91,TF Oakwood,2026-03-20T13:44:23.176-04:00,00:18,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-C524390B,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Hablar con un asociado.
+Assistant: ¿Podrías repetir eso, por favor?
+Customer: Hablar con alguien."
+69bc153bf3dcf3b732c87177,RT Buckhead,2026-03-19T11:24:45.619-04:00,02:03,UserHangup,TRUE,Making a Reservation or Inquiring About Reservations,12,,0,CALLER-46FC9D1F,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Hi. I'd like to set a reservation.
+Assistant: Cool. For how many guests will be in your party?
+Customer: Twelve.
+Assistant: Got it. Parties of five or more are coordinated by a manager. In case Buckhead cannot handle your party, are you willing to be relocated to one of our nearby locations, Chamblee and Sandy Springs, that are within ten minutes?
+Customer: Yes.
+Assistant: Great. Would you like to exclude any of the given options?
+Assistant: Sorry, are you still on the line?
+Customer: Yes. Exclude Chambley.
+Assistant: Okay. What date and time works best?
+Customer: Today at eight thirty. PM.
+Assistant: Under what name should I put the reservation?
+Customer: Dawson.
+Customer: D a w s o n.
+Assistant: Okay, twelve guests, today, March nineteenth at eight thirty P.M., under the name Dawson. Does that look correct?
+Customer: Yes.
+Assistant: Please wait while I submit your large party reservation request to our manager. I just sent your information to our managers, please check your messages you should receive an SMS with the details of your reservation, they will be reaching out soon!
+Customer: Thank you.
+Assistant: Perfect—thanks for calling Real Tacos. Enjoy your day.
+Assistant: Sorry, are you still on the line?
+Customer: Yes.
+Assistant: Perfect—thanks for calling Real Tacos. Enjoy your day."
+69b0ca0f5676d92efe1e136c,RT Buckhead,2026-03-10T21:49:05.874-04:00,00:33,UserHangup,TRUE,General Information and Amenities,,,0,CALLER-3E6C0687,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Hey.
+Customer: This is Naguales, Quesadilla.
+Customer: Was wondering, do you guys have, like, deals on Tuesdays?
+Assistant: I am a virtual assistant and do not have access to that information. Is there anything else I can help you with?
+Customer: No, sir.
+Assistant: Perfect—thanks for calling Real Tacos. Enjoy your day."
+69ac6a524bcab3cfc614c4f9,RT Buckhead,2026-03-07T13:11:32.580-05:00,00:17,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-C5814B51,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Can I talk to the host?"
+69b5deec6551713542c1ee52,RT Buckhead,2026-03-14T18:19:26.587-04:00,00:16,UserHangup,TRUE,Questions About Restaurant Hours and Wait Times,,,0,CALLER-85BFBEB0,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Hi. Do you guys have a wait?
+Assistant: Let me check that for you. The current wait time is sixty minutes."
+69a8d66956036b341cc135c6,RT Buckhead,2026-03-04T20:03:39.487-05:00,00:51,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-8A0F465E,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Manager.
+Assistant: Got it. I can connect you with the manager. Would you like me to do that?
+Assistant: Sorry, are you still on the line?
+Customer: Yes.
+Assistant: Okay, one moment while I get the manager for you.
+Assistant: Sorry, are you still on the line?
+Customer: Yes.
+Assistant: Okay, one moment while I get the manager for you."
+69a9cbae638d0bab9b061b5b,RT Buckhead,2026-03-05T13:30:08.935-05:00,00:17,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-1BD70AC0,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Talk to a representative.
+Assistant: Sure thing. I can connect you with the host."
+69b96ece039d9372ee0b9375,RT Buckhead,2026-03-17T11:10:08.298-04:00,00:26,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-0CF70F09,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Speak to manager.
+Assistant: Sure thing. I can connect you with the manager. Would you like me to do that?
+Customer: Yes."
+69c4900e77ad95bda82637ce,RT Buckhead,2026-03-25T21:46:56.928-04:00,00:34,UserHangup,TRUE,Placing an Order for Takeout or Delivery,,pickup,1,CALLER-5873B316,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Hi. Do you guys have to go margaritas?
+Assistant: We sure do. Would you like me to send you our online ordering link so you can place your pickup order?
+Customer: Yes.
+Assistant: Great. I’ve just sent you the pickup link. Anything else I can help you with?
+Customer: Nope. That'll be it.
+Assistant: Perfect—thanks for calling Real Tacos. Enjoy your day."
+69aa29c44bcab3cfc6915f6c,TF Oakwood,2026-03-05T20:11:34.623-05:00,00:30,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-A493C48C,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Ordenar.
+Assistant: Para ordenar, puedes hablar con uno de nuestros representantes o hacer tu pedido a través de nuestra plataforma en línea. ¿Te gustaría hablar con alguien o hacer el pedido en línea?
+Customer: Hablar con alguien.
+Assistant: Enseguida te transfiero con uno de nuestros representantes para que puedas hacer tu pedido."
+69b5acb2039d9372ee760ffe,TF Oakwood,2026-03-14T14:45:08.306-04:00,00:24,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-67E6D50C,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Quiero hacer un pedido.
+Assistant: ¿Te gustaría hablar con un miembro del equipo o enviarte el enlace para hacer tu pedido en línea?
+Customer: Hablar con un miembro del equipo.
+Assistant: Con gusto, te transfiero con un miembro del equipo en un momento.
+Customer: Gracias."
+69b1cb4d936cfd5397495584,RT Buckhead,2026-03-11T16:06:39.989-04:00,00:23,UserHangup,TRUE,Making a Reservation or Inquiring About Reservations,8,,0,CALLER-D8C5436F,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Assistant: Sorry, are you still on the line?
+Customer: Do you take reservations for parties of eight?
+Assistant: For how many people is the reservation?"
+69bb212e99ee24c4a109118c,RT Buckhead,2026-03-18T18:03:29.378-04:00,00:31,UserHangup,TRUE,Making a Reservation or Inquiring About Reservations,5,,0,CALLER-DC226498,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Hi. I was just wondering if you have a wait today, and if so, can I make a reservation?
+Assistant: Let me check that for you. Currently, there is no wait. How many guests will be in your party?
+Customer: Five.
+Assistant: Okay. Parties of five or more are coordinated by a manager. In case Buckhead cannot handle your party, are you willing to be relocated to one of our nearby ..."
+69a99f4e30a56348b0ff2dee,TF Oakwood,2026-03-05T10:20:48.413-05:00,00:20,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-BAA995CB,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Me gustaría hablar con un operador.
+Assistant: Claro, ¿te gustaría hablar con un representante para atender tu solicitud?
+Customer: Correcto."
+69bdf057f40440690c8e703a,TF Oakwood,2026-03-20T21:11:53.693-04:00,00:29,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-AB3396C2,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Quiero hacer una orden para ir a recoger.
+Assistant: ¿Te gustaría hablar con un miembro del equipo o que te envíe el enlace para hacer tu pedido en línea para recoger?
+Customer: Un miembro del equipo.
+Assistant: En un momento te transferiré con un miembro de nuestro equipo para que te ayude con tu pedido."
+69a7aa6156036b341cb532f1,RT Buckhead,2026-03-03T22:43:32.012-05:00,00:31,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-64AF097F,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: I'm like, what kind of fish is your top is do you use for your fish taco?
+Assistant: I got you. What kind of flavors are you in the mood for today?
+Customer: Oh my gosh. I need a person.
+Assistant: Got it. Would you like me to connect you with the host?
+Customer: Yes."
+69bc89f817173b5a898a94fa,TF Oakwood,2026-03-19T19:42:51.246-04:00,00:30,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-797DC21E,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Para hacer un pedido, por favor.
+Assistant: Para hacer un pedido, ¿te gustaría hablar con alguien de nuestro equipo o enviarte el enlace para hacer tu pedido en línea?
+Customer: A ver, con una persona.
+Assistant: Entiendo...."
+69c9719f36dfa226c408c4de,TF Oakwood,2026-03-29T14:38:25.726-04:00,00:34,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-02E82D1A,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Sí, buenas tardes.
+Customer: Quisiera hacer una orden, por favor.
+Assistant: Dále— ...
+Customer: Este. ¿Tengo que pagar ahorita por tarjeta o cuándo llegue allá?
+Assistant: Para hacer tu orden, te recomiendo hablar con uno de nuestros representantes o puedes hacerla en línea. ¿Te gustaría hablar con alguien o recibir el enlace para hacer tu orden en línea?
+Customer: Hablar con alguien."
+69c2ed710887978cf590b534,RT Buckhead,2026-03-24T16:00:51.930-04:00,01:40,UserHangup,TRUE,Placing an Order for Takeout or Delivery,,pickup,1,CALLER-2837509C,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: I want a taco bowl.
+Assistant: ¡Qué bueno. Our burrito bowl is ...
+Customer: Hello?
+Assistant: Oh, sorry about that. Our burrito bowl is awesome. What kind of protein are you in the mood for?
+Customer: Outtake chicken.
+Assistant: Okay, so you want chicken. Our grilled chicken taco has adobo grilled chicken, onion, and cilantro on a corn tortilla. Would you like to hear about another option?
+Customer: Is that a bowl?
+Assistant: My bad, that's a taco. The burrito bowl has rice, beans, avocado, peppers and onions, shredded cheese, and pico de gallo. Does that sound better?
+Customer: Yes. That's what I want, baby.
+Assistant: ¡Perfecto. Is there anything else I can help you with?
+Customer: That's it, sweetheart.
+Assistant: Perfect—thanks for calling Real Tacos. Enjoy your day.
+Customer: You wanna get the name for the order?
+Assistant: I am unable to take orders. I can send you a link to place a pickup order online, if you like.
+Customer: Yeah. Send me a link. I'm at the one at Buckhead.
+Assistant: Great. I've just sent you the pickup link. Is there anything else I can help you with?
+Customer: No. That's it.
+Assistant: Perfect—thanks for calling Real Tacos. Enjoy your day...."
+69c9e9fc3561ccb2167242ce,TF Oakwood,2026-03-29T23:11:58.758-04:00,01:28,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,"delivery, pickup",2,CALLER-169524F1,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Chica. ¿A qué hora cierran?
+Assistant: Dále— Hoy es domingo y cerramos a la medianoche.
+Customer: Hello?
+Assistant: Hello. You're speaking with Yuli at Todo Frito Oakwood. How can I help you today?
+Customer: Ok. ¿Para hacer una orden?
+Assistant: ¿Quieres hacer un pedido para recoger o para delivery?
+Customer: Para recoger.
+Assistant: Excelente— Puedes hablar con un miembro del equipo o te puedo enviar el link para hacer tu pedido en línea. ¿Qué prefieres?
+Customer: Si quiere me hace el pedido hacerlo en línea.
+Assistant: Claro— Te voy a enviar el link para que puedas hacer tu pedido de pickup en línea. ¿Quieres recibir el link por mensaje de texto?
+Customer: Ok.
+Assistant: Te acabo de enviar el link para tu pedido de pickup. Si necesitas algo más, no dudes en preguntar. ¡Disfruta tu comida en Todo Frito Oakwood.
+Customer: No me ha llegado. Ah, aquí ya.
+Assistant: Genial— Me alegra que ya tengas el link. Si necesitas ayuda con algo más, no dudes en preguntar. ¡Buen provecho en Todo Frito Oakwood.
+Customer: Una carrera. Y ya.
+Customer: Pero yo no ¿Aló?
+Assistant: Parece que se cortó la llamada. Gracias por llamar a Todo Frito Oakwood. ¡Que tengas un buen día."
+69c16c9d65aebbe92977b130,RT Buckhead,2026-03-23T12:38:56.061-04:00,00:35,UserHangup,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-68B89A3C,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Yes. Can I call and place a order to go?
+Assistant: Awesome. I can text you our online ordering link so you can place your pickup order. Would you like me to send you the link?
+Customer: No. Can I place it on the phone?
+Assistant: I am not allowed to take orders over the phone, but I can send you the link to place your order online. Would you like me to send you the link?"
+69c2b80b65aebbe929b67cc4,RT Buckhead,2026-03-24T12:13:01.540-04:00,00:28,UserHangup,TRUE,Placing an Order for Takeout or Delivery,,pickup,1,CALLER-ABD5651B,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Hi. I want to put in a a pickup order.
+Assistant: Awesome. I can text you our online ordering link so you can place your pickup order.
+Customer: Ok. Thank you.
+Customer: She still text me online, which
+Assistant: Great. I’ve just sent you the pickup link...."
+69ab0c894bcab3cfc6d678e4,RT Buckhead,2026-03-06T12:19:07.590-05:00,00:54,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-ADD9C9B2,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Hi. Can I place an order to pick up, please?
+Assistant: Awesome. I can text you our online ordering link so you can place your pickup order. Would you like me to send it?
+Customer: No.
+Assistant: No problem. Is there anything else I can help you with?
+Customer: Yes. I'd like to place an order.
+Assistant: Gotcha. I can text you our online ordering link so you can place your pickup order. Would you like me to send it?
+Customer: No.
+Assistant: No problem. Is there anything else I can help you with?
+Customer: Speak with a team member."
+69b9f96465517135426b2cfc,RT Buckhead,2026-03-17T21:01:27.150-04:00,01:30,UserHangup,TRUE,Making a Reservation or Inquiring About Reservations,3,,0,CALLER-A85D5759,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: My price is on.
+Customer: Hi. I was trying to make a reservation.
+Assistant: Okay. How many guests will be in your party?
+Customer: Three
+Assistant: And what date and time works best?
+Customer: Today is I think we'll be there by, like, nine thirty.
+Assistant: Under what name should I put the reservation?
+Customer: Did you... Were you able to hear me?
+Assistant: Yes, I can hear you. Under what name should I put the reservation?
+Customer: Jackson.
+Customer: J a c k s o n.
+Assistant: Three guests for today, March seventeenth, at nine thirty P.M. under the name Jackson. Does that look correct?
+Customer: Yes.
+Assistant: I’m sorry—I couldn’t secure a table at that exact time. I’ve just sent you our OpenTable link so you can check real-time openings and pick the slot that suits you best. Is there anything else I can help you ..."
+69b9cbe710d10be09b21e8be,TF Oakwood,2026-03-17T17:47:21.398-04:00,00:48,CallTransfer,TRUE,Menu Inquiries and Special Dietary Needs,,,0,CALLER-ED50A68C,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Aló. Buenas tardes.
+Assistant: Buenas tardes. Gracias por llamar a Todo Frito Oakwood. ¿En qué puedo ayudarte hoy?
+Customer: el juego de Venezuelan.
+Assistant: ¿Te refieres a algún plato típico venezolano de nuestro menú? Tenemos opciones como Arepas, Cachapas, Pepitos y más. ¿Quieres saber ...
+Customer: style es esto?
+Assistant: Parece que estás buscando información sobre algún plato o estilo venezolano en particular. Nuestro menú incluye opciones como la Parrilla Criolla, Arepas, Pepitos y Cachapas, ...
+Customer: Tengo una contestadora.
+Assistant: Parece que estás llamando desde un teléfono fijo o tienes alguna dificultad para recibir mensajes de texto."
+69b862996551713542227af8,RT Buckhead,2026-03-16T16:05:47.739-04:00,00:23,UserHangup,TRUE,Making a Reservation or Inquiring About Reservations,8,,0,CALLER-D8C5436F,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Assistant: Sorry, are you still on the line?
+Customer: Do you take reservations for parties of eight?
+Assistant: For how many people is the reservation?"
+69b5cdae10d10be09b7d55ab,TF Oakwood,2026-03-14T17:05:52.854-04:00,00:21,UserHangup,TRUE,Making a Reservation or Inquiring About Reservations,8,,0,CALLER-D8C5436F,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Do you take reservations for parties of eight?
+Assistant: Todo Frito Oakwood doesn't accept reservations in advance; you're welcome ..."
+69bb57605ac8d576985d9d2b,RT Buckhead,2026-03-18T21:54:42.803-04:00,00:20,UserHangup,TRUE,Questions About Restaurant Hours and Wait Times,,,0,CALLER-31C6D299,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Hi. Do you guys have a wait right now?
+Assistant: Let me check that for you, the current wait time is thirty minutes.
+Customer: Wow.
+Customer: Okay. Thank you.
+Assistant: Perfect—thanks for calling Real ..."
+69beac1f889fd7682d470493,TF Oakwood,2026-03-21T10:33:05.867-04:00,00:17,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-C524390B,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Hablar con un miembro.
+Assistant: En un momento te transferiré con un miembro de nuestro equipo."
+69aee02a27f818302158106d,TF Oakwood,2026-03-09T10:58:52.829-04:00,00:18,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-416990E6,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Hablar con un representante
+Assistant: Claro, te transferiré con un miembro de nuestro equipo en un momento.
+Customer: Glacia."
+69bdd8e56a9ee6d259ec8942,TF Oakwood,2026-03-20T19:31:51.526-04:00,00:18,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-294DE355,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Quiero hablar con un personal.
+Assistant: ¿Te gustaría hablar con un representante de nuestro equipo? Estoy aquí para transferir tu llamada."
+69b9e2d565517135426a91c9,TF Oakwood,2026-03-17T19:25:11.620-04:00,00:26,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-A792E8FF,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Me gustaría hacer una orden.
+Assistant: ¿Te gustaría hablar con un miembro del equipo o enviarte el enlace para hacer tu pedido en línea?
+Customer: Me gustaría hablar con un miembro del equipo.
+Assistant: Enseguida te transfiero con alguien que pueda ayudarte con tu pedido. ¡Gracias por elegir Todo Frito Oakwood."
+69b4cadd61323dae29a7f666,RT Buckhead,2026-03-13T22:41:35.279-04:00,00:32,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-7A566161,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Yes. May I speak to the hostess, please?
+Assistant: Yes, I can connect you. Please hold.
+Assistant: Sorry, are you still on the line?
+Customer: Yes.
+Assistant: Please hold."
+69bc3f8461b76e251d0dc668,RT Buckhead,2026-03-19T14:25:10.633-04:00,01:54,UserHangup,TRUE,Making a Reservation or Inquiring About Reservations,2,,0,CALLER-A5011A74,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Hi. Do you have a table available for two?
+Assistant: Let me check that for you. The ...
+Customer: The length of neck.
+Assistant: Let me check ...
+Customer: Like, the next fifteen minutes?
+Assistant: Let me check that for you. The current wait time is zero minutes.
+Customer: two forty five?
+Assistant: I can only provide the current wait time. Would you like to know what it is right now?
+Customer: No. Was trying to book a reservation.
+Assistant: Okay. For how many people is the reservation?
+Customer: Just two.
+Assistant: What date and time works best?
+Customer: Today, at two forty
+Assistant: Under what name should I put the reservation?
+Customer: Justin.
+Assistant: Two guests for today, March nineteenth at two forty P.M. under the name Justin, does that look correct?
+Customer: Yeah. But you you said there's no wait time. Right?
+Assistant: Great news! your reservation was successful, please check your messages you should receive the booking confirmation link. Is there anything else I can help you with?.
+Customer: No, that's weird.
+Assistant: Perfect—thanks for calling Real Tacos. Enjoy your day."
+69c569953561ccb216c97092,RT Buckhead,2026-03-26T13:15:03.464-04:00,00:38,CallTransfer,TRUE,Lost Items Inquiries,,,0,CALLER-DB056827,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Hi. This is Ashley. I was just left the bar from you guys, and I actually left my purse there. I just wanted to let you know I'm on my way back to grab it if anyone sees it.
+Assistant: Okay Ashley, one moment while I transfer you to the host, who can help with lost items.
+Customer: Ok.
+Customer: That was an automated line."
+69b495116896046c69c55ca3,TF Oakwood,2026-03-13T18:52:03.393-04:00,00:36,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-48FF818C,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Hacer una orden.
+Assistant: ¿Quieres hacer un pedido para recoger o para entrega a domicilio?
+Customer: Para recoger.
+Assistant: ¿Te gustaría hablar con un miembro del equipo para hacer tu pedido o prefieres que te envíe el enlace para hacer tu pedido en línea?
+Customer: ¿Petiz con un representante.
+Assistant: ¿Quieres hablar con un representante? La llamada será transferida a un miembro del equipo en breve."
+69b0611f0c86f44f25b67f8c,TF Oakwood,2026-03-10T14:21:21.830-04:00,00:15,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-EF8DF9D9,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Habla con operador.
+Assistant: ¿Podrías decirme un poco más sobre por qué necesitas hablar con un representante?
+Assistant: Estoy aquí para ayudarte...."
+69b09d5307175cba3cabcf31,RT Buckhead,2026-03-10T18:38:13.549-04:00,01:22,UserHangup,TRUE,Making a Reservation or Inquiring About Reservations,2,,0,CALLER-15D85BE6,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Assistant: Sorry, are you still on the line?
+Customer: Hi.
+Assistant: What are you in the ...
+Customer: Hello?
+Assistant: What are you in the mood for today?
+Customer: Hi. Is there space for two today for a reservation at seven thirty?
+Assistant: Okay, for a reservation, how many guests will be in your party?
+Customer: Two.
+Assistant: Under what name should I put the reservation?
+Customer: Skylar.
+Assistant: March tenth at seven thirty P.M. under the name Skylar, does that look correct?
+Customer: Yes.
+Assistant: I’m sorry—I couldn’t secure a table at that exact time. I’ve just sent you our OpenTable link so you can check real-time openings and pick the slot that suits you best. Is there anything else I can help you with?.
+Customer: Is there a wait time right now?
+Assistant: Let me check that for you, the wait time is thirty minutes.
+Customer: Ok, thanks."
+69c08d4d65aebbe9293ab7e3,TF Oakwood,2026-03-22T20:46:07.597-04:00,00:25,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-93D441C5,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Deseará hacer un pedido.
+Assistant: ¿Te gustaría hablar con un miembro del equipo o enviarte el enlace para hacer tu pedido en línea?
+Customer: Un miembro del equipo.
+Assistant: En un momento te transferiré con un miembro de nuestro equipo para que te ayude con tu pedido."
+69b20a23936cfd53974a9676,TF Oakwood,2026-03-11T20:34:45.735-04:00,00:16,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-02CB6BAF,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Hablar con operador.
+Assistant: Claro, te transferiré con un miembro de nuestro equipo en un momento."
+69c02239e852e2d6deddd9f4,TF Oakwood,2026-03-22T13:09:15.930-04:00,00:20,CallTransfer,TRUE,Unclassified,,,0,CALLER-3D98A7A0,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: ¿Me puede ayudar, por favor, con servicio de pequeño de mil unidades?
+Assistant: Lo siento, no tenemos un servicio de mil unidades."
+69b82878039d9372eec94bbf,TF Oakwood,2026-03-16T11:57:47.069-04:00,00:24,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-5C210FF6,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Quiero hacer una orden.
+Assistant: ¿Te gustaría hablar con un miembro del equipo o enviarte el enlace para hacer tu pedido en línea?
+Customer: No. Miembro, el equipo.
+Assistant: En un momento te transferiré con un miembro de nuestro equipo para que te ayuden con tu pedido."
+69a4e96d0c39c4592ec8c283,RT Buckhead,2026-03-01T20:35:44.072-05:00,00:19,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-6BA11658,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Representative.
+Assistant: Do you want to speak with a representative?...
+Customer: Yes. The fuck?"
+69c1682f282265f33cf5f39c,TF Oakwood,2026-03-23T12:20:02.193-04:00,00:21,AgentHangup,TRUE,Unclassified,,,0,CALLER-BDA8F825,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Regarding your Google Business account, Our system shows numerous searches for your business via Google and Google voice clients are currently having trouble finding you.
+Customer: Press one to speak with an agent immediately and verify your Google listing.
+Assistant: I can connect ..."
+69b86966655171354222a29c,RT Buckhead,2026-03-16T16:34:48.364-04:00,00:40,UserHangup,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-CE84D29B,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Yeah. I'd like to place an order.
+Assistant: Awesome. I can text you our online ordering link so you can place your pickup order.
+Assistant: Sorry, are you still on the line?
+Customer: Yes.
+Assistant: Great. I’ve just ...
+Customer: Yes. I'm here.
+Assistant: Great. I’ve just sent you the pickup link. Is there anything else I can help you with?
+Customer: That's it. Thanks.
+Assistant: Perfect—thanks for calling Real Tacos. ..."
+69c88a159d214fefe334d3dd,RT Buckhead,2026-03-28T22:10:31.986-04:00,00:17,UserHangup,TRUE,Questions About Restaurant Hours and Wait Times,,,0,CALLER-34893869,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: What's the wait time?
+Assistant: Let me check that for you, the current wait time is thirty minutes."
+69c83995357fae02c419909d,RT Buckhead,2026-03-28T16:27:04.101-04:00,00:20,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-95BEFB56,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Speak to speak to hostess."
+69c0912dc982fb21f2c15013,RT Buckhead,2026-03-22T21:02:39.464-04:00,00:24,UserHangup,TRUE,Questions About Restaurant Hours and Wait Times,,,0,CALLER-E387A9BA,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: How later y'all open shop?
+Assistant: We're open until midnight tonight.
+Customer: Thank you.
+Assistant: Perfect—thanks for calling Real Tacos. Enjoy your day."
+69aa3fbb4bcab3cfc692355f,TF Oakwood,2026-03-05T21:45:17.377-05:00,00:50,UserHangup,TRUE,Questions About Restaurant Hours and Wait Times,,,0,CALLER-65A29A5F,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Are you guys still open?
+Assistant: Yes, we're open today until ...
+Customer: What?
+Assistant: We're open today, Thursday, until ten de la noche.
+Customer: Uh, si llego ahorita a las diez de la noche todavía me pueden atender.
+Assistant: Sí, claro que sí, estamos abiertos hasta las diez de la noche, así que puedes llegar sin problema.
+Customer: Okay. Can I get it?
+Assistant: ¿Te gustaría ordenar algo para llevar o comer en el restaurante?
+Customer: Ahorita llego corn
+Assistant: ¿Te refieres a nuestras arepas de maíz o cachapas? Tenemos varias opciones deliciosas...."
+69a49c2570ddb9e42ae0962b,RT Buckhead,2026-03-01T15:05:59.771-05:00,00:21,UserHangup,TRUE,Making a Reservation or Inquiring About Reservations,8,,0,CALLER-D8C5436F,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Assistant: Sorry, are you still on the line?
+Customer: Do you take reservations for parties of eight?
+Assistant: For how many people is the reservation?..."
+69acc4ec264d99a302138284,TF Oakwood,2026-03-07T19:38:06.932-05:00,00:32,UserHangup,TRUE,Unclassified,,,0,CALLER-5D48B7A5,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Hello?
+Assistant: Hello. Welcome to Todo Frito Oakwood, I'm Yuli. How can I help you today?
+Customer: It's the gift bunnies.
+Assistant: I'm sorry, we don't offer gift services or gift cards at Todo Frito Oakwood. Is there something else I can help you with?"
+69b21e7286bb8ca124a6b8bf,RT Buckhead,2026-03-11T22:01:24.813-04:00,00:38,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-ECDBE4E6,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Online, and I want it doesn't give me the option to switch the tortilla out for, like, a lettuce wrap instead.
+Assistant: I understand you're ...
+Customer: Do I have to, like, make the order over the phone?
+Assistant: I am unable to take orders over the phone, but I can send you the link to our online ordering. Would you like me to send you the link?
+Customer: No. Can I speak to a real person?"
+69b34ea6db7533c9cb1bb049,TF Oakwood,2026-03-12T19:39:20.302-04:00,00:26,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-AF22838E,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Este para encargar la promoción de los patacones, por favor.
+Assistant: ¿Te gustaría hablar con un miembro del equipo o enviarte el enlace para hacer tu pedido en línea?
+Customer: Con un miembro del equipo.
+Assistant: Entiendo. Tu llamada será transferida a un miembro de nuestro equipo en breve."
+69ab77ae638d0bab9b4f33f3,RT Buckhead,2026-03-06T19:56:16.955-05:00,00:17,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-B8285A58,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Speak to someone about an order."
+69bf11d36b897b830338d25d,RT Buckhead,2026-03-21T17:47:01.858-04:00,00:53,UserHangup,TRUE,Questions About Restaurant Hours and Wait Times,,,0,CALLER-5E053CCE,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Hi. How are you today?
+Assistant: I'm doing great, thanks. What can I do for you today?
+Customer: Thanks. I was just wondering what the waitlist time was.
+Assistant: Let me check that for you. The current wait time is sixty minutes.
+Customer: Is it possible to join the waitlist on the phone, or do you have to do that in person?
+Assistant: I’m sorry, but I can’t add you to a waitlist before you arrive. Once you’re here, our host will add you to the in-person waitlist.
+Customer: Thank you.
+Assistant: Perfect—thanks for calling Real Tacos. Enjoy your day."
+69bc8d0a04b37cd92e325061,TF Oakwood,2026-03-19T19:55:57.210-04:00,00:05,UserHangup,TRUE,,,,0,CALLER-FCC37279,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ..."
+69ac42d3638d0bab9b86828d,TF Oakwood,2026-03-07T10:23:01.431-05:00,00:31,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-C5E5C708,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Hola. Buenos días.
+Assistant: Buenos días.
+Customer: Este, quería hacer un pedido para recoger una meats.
+Assistant: ¿Quieres hacer un pedido para recoger? Puedes hablar con un miembro del equipo o te puedo enviar el enlace para hacer tu pedido en línea. ¿Qué prefieres?
+Customer: Hola con un miembro del equipo.
+Assistant: Entiendo. Tu llamada será transferida a un miembro de nuestro equipo en breve."
+69bf2551d04f7f4078c7a4d7,RT Buckhead,2026-03-21T19:10:12.051-04:00,00:21,UserHangup,TRUE,Questions About Restaurant Hours and Wait Times,,,0,CALLER-5582C49E,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Hi. I was wondering if you guys had a wait. What was the wait time?
+Assistant: Let me check that for you... The current wait time is sixty minutes.
+Customer: Thank you."
+69b5bdc710d10be09b7ce384,RT Buckhead,2026-03-14T15:58:02.264-04:00,00:48,UserHangup,TRUE,Making a Reservation or Inquiring About Reservations,10,,0,CALLER-A14FB7B4,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Reservation.
+Assistant: ¡Genial. ¿Para cuántas personas es la reservación?
+Customer: Yes.
+Assistant: ¿Para cuántas personas es la reservación?
+Customer: Ten.
+Assistant: ¡Entendido. Las reservaciones para grupos de cinco o más personas las coordina un gerente. En caso de que Buckhead no pueda atender a tu grupo, ¿estás dispuesto a que te reubiquen en una de nuestras ubicaciones cercanas, ya sea Chamblee o Sandy Springs, que están a diez minutos?"
+69c2d761c982fb21f2360f84,TF Oakwood,2026-03-24T14:26:44.386-04:00,01:45,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-17643866,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Hola, muy buenas tardes. Soy la que está por aquí por Floride Brown, ¿verdad?
+Assistant: No, señora. Usted está llamando a Todo Frito Oakwood, ubicado en Flowery Branch. ¿En qué puedo ayudarte hoy?
+Customer: Exacto.
+Assistant: ¿En qué ...
+Customer: Mira, hoy hoy es hoy es, este, la promoción de un sombrero.
+Assistant: Creo que te refieres a la promoción de Sombrero Tuesday"". ¿Quieres saber más sobre esa promoción?
+Customer: Sì.
+Assistant: Lo siento, pero no tengo información sobre una promoción de sombrero en Todo Frito Oakwood. ¿Te gustaría saber sobre nuestras promociones actuales o eventos especiales?
+Customer: Sí.
+Assistant: Puedo decirte que tenemos eventos y promociones recurrentes. ¿Te gustaría saber más sobre nuestros eventos semanales o recibir el enlace a nuestras redes sociales para estar al tanto de las últimas novedades?
+Customer: No, quiero saber que hay promociones hoy.
+Assistant: Hoy es martes, así que tenemos la promoción Sombrero Tuesday"" que incluye una hamburguesa, papas fritas y bebidas por treinta y cuatro dólares con noventa y nueve centavos. ¿Te gustaría saber más sobre esta promoción?
+Customer: No, quiero quiero mandar a hacer una.
+Assistant: ¿Quieres hacer un pedido para recoger o delivery?
+Customer: Para recoger.
+Assistant: ¿Te gustaría hablar con un miembro del equipo para hacer tu pedido o prefieres que te envíe el enlace para hacer tu pedido en línea?
+Customer: No, hablar con alguien.
+Assistant: En un momento te transferiré con un miembro de nuestro equipo para que puedas hacer tu pedido."
+69a4e417eea967c2793d93b9,TF Oakwood,2026-03-01T20:12:57.727-05:00,00:33,UserHangup,TRUE,Questions About Restaurant Hours and Wait Times,,,0,CALLER-1C763A87,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Are you still open?
+Assistant: Sí, estamos abiertos hoy domingo hasta las 12 de la noche. Nuestras horas de hoy son de 8 de la mañana a 12 de la noche.
+Customer: Can you speak English?
+Assistant: Yes, I can switch to English. We're still open today, Sunday, until midnight. Our hours today are from 8 AM to 12 AM."
+69b9e3ae49be61fe96360689,RT Buckhead,2026-03-17T19:28:48.596-04:00,00:43,UserHangup,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-7D6F9653,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Can I make a call into the order?
+Assistant: I am sorry, but I am not able to take any orders at the moment. Would you like me to send you the online ordering link via SMS?
+Customer: Yeah.
+Assistant: Great. I've just sent you the pickup link. Is there anything else I can help you with?
+Customer: No.
+Assistant: Perfect—thanks for calling Real Tacos. Enjoy your day.
+Customer: You too, bro. Does it teach you to say thank you?
+Assistant: I ..."
+69acc681de899186889f553c,TF Oakwood,2026-03-07T19:44:51.677-05:00,00:23,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-5D48B7A5,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Uh, para pickup.
+Assistant: ¿Quieres hablar con un miembro del equipo o enviar el enlace para hacer tu pedido de pickup en línea?
+Customer: O miembro del equipo.
+Assistant: Tu llamada será transferida a un miembro de nuestro equipo en breve."
+69acbb7dde899186889ed6c7,RT Buckhead,2026-03-07T18:57:51.766-05:00,00:17,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-2911998B,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: You wanna wait a hour yesterday? Y'all wanna wait a hour? Speak to operator."
+69a4e5b370ddb9e42ae26e76,TF Oakwood,2026-03-01T20:19:49.994-05:00,00:17,UserHangup,TRUE,Unclassified,,,0,CALLER-6B5B6AEF,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: A serving for you.
+Assistant: Gracias. I'm happy to help. How can I assist you today at Todo Frito Oakwood?"
+69c484b52f5091ba2fe9e087,RT Buckhead,2026-03-25T20:58:31.610-04:00,00:17,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-6BA11658,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Connect to host.
+Assistant: No problem. Connecting you to the host now."
+69c9865274c7fcb2a910b598,TF Oakwood,2026-03-29T16:06:44.783-04:00,00:21,UserHangup,TRUE,Making a Reservation or Inquiring About Reservations,8,,0,CALLER-D8C5436F,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Do you take reservations for parties of eight?
+Assistant: Dále— Todo Frito Oakwood doesn't accept reservations in advance; ..."
+69bf3a439ca9287a67353960,RT Buckhead,2026-03-21T20:39:33.727-04:00,00:46,UserHangup,TRUE,Making a Reservation or Inquiring About Reservations,10,,0,CALLER-A2CA71DC,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Assistant: Sorry, are you still on the line?
+Customer: I'm trying to make a reservation.
+Assistant: Awesome. For how many people is the reservation?
+Customer: Ten.
+Assistant: Got it. Parties of five or more are coordinated by a manager. In case Buckhead cannot handle your party, are you willing to be relocated to one of our nearby locations, Chamblee and Sandy Springs, that are within ten minutes?"
+69ae11db264d99a3023fbe0e,TF Oakwood,2026-03-08T20:18:37.678-04:00,00:33,UserHangup,TRUE,Questions About Restaurant Hours and Wait Times,,,0,CALLER-845383BD,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Hola. Buenas noches. Quería saber, eh, hasta que hora estarán abierto hoy.
+Assistant: Buenas noches. Todo Frito Oakwood está abierto hasta la medianoche hoy, domingo. Nuestras horas de hoy son de ocho de la mañana a la medianoche.
+Customer: Ya. Muchas gracias.
+Assistant: De nada. Disfruta tu visita a Todo Frito Oakwood. ¡Que tengas una excelente noche."
+69c56b6e1f8b1488f5fb29a8,RT Buckhead,2026-03-26T13:22:56.728-04:00,00:16,UserHangup,TRUE,Unclassified,,,0,CALLER-3AE50927,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Assistant: Sorry, are you still on the line?"
+69b87e3110d10be09bdb4e7e,RT Buckhead,2026-03-16T18:03:31.787-04:00,00:27,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-2307E621,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Hi. Can I speak to a manager or catering person?
+Assistant: Yes, I can connect you. Do I have your permission to transfer you?
+Customer: Yes."
+69c4a8512f5091ba2feb2919,RT Buckhead,2026-03-25T23:30:27.394-04:00,00:25,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-6546BAAF,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Store agent.
+Assistant: Do you want to speak with a representative?
+Customer: Yes."
+69bedd296a9ee6d259211b7b,TF Oakwood,2026-03-21T14:02:19.504-04:00,01:53,UserHangup,TRUE,Menu Inquiries and Special Dietary Needs,2,"delivery, pickup",2,CALLER-14DF1273,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Hello. Buenas tardes.
+Assistant: Buenas tardes. How can I help you today at Todo Frito Oakwood?
+Customer: Oh, ¿tiene sopa de res?
+Assistant: Sí, tenemos Beef Soup, que es una sopa de res con verduras y caldo, y cuesta doce dólares con noventa y nueve centavos. ¿Te gustaría saber más sobre nuestros especiales del día?
+Customer: Sí.
+Assistant: ¿Estás buscando información sobre el menú o deseas hacer un pedido?
+Customer: Información sobre el menú.
+Assistant: Nuestros especiales de almuerzo de lunes a viernes incluyen una sopa del día y una bebida. Algunas opciones son Steak with Fries, Chicken with Mushrooms, Pabellón, Smoked Pork Chop, Garlic Chicken y Crispy Chicken, todas por doce dólares con noventa y nueve centavos. ¿Te gustaría saber más sobre alguna de estas opciones?
+Assistant: Disculpa, estás ahí?
+Customer: Two.
+Assistant: ¿Te gustaría saber más sobre alguna de nuestras opciones de menú o prefieres que te envíe el enlace del menú por mensaje de texto?
+Customer: Uh, we need some soup corn
+Assistant: Tenemos ...
+Customer: Envíamelo, por favor.
+Assistant: ¿Te gustaría recibir el enlace del menú por mensaje de texto para que puedas ver nuestras opciones, incluyendo sopas?
+Customer: K.
+Assistant: ¿Puedo enviarte el enlace del menú por mensaje de texto?
+Customer: Sweet?
+Assistant: Tenemos Cachapas, que son pancakes de maíz dulce rellenos de queso venezolano...."
+69c7d8021f8b1488f56aea3a,TF Oakwood,2026-03-28T09:30:44.502-04:00,00:17,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-416990E6,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Hablar con un representante.
+Assistant: Claro— En un momento te transferiré con un miembro de nuestro equipo."
+69b010a6a15b2bbf50df6f0f,TF Oakwood,2026-03-10T08:38:01.178-04:00,00:41,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-FECE603A,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Hola, Julie. Um, este, quería hacer un pedido
+Assistant: Disculpa, soy Yuli, no Julie. ¿Quieres hacer un pedido para recoger o para entrega?
+Customer: Patty recoger.
+Assistant: Parece que quieres recoger un pedido. ¿Te gustaría hablar con alguien de nuestro equipo para hacer tu pedido o prefieres que te envíe el enlace para hacerlo en línea?
+Customer: No. Quiero hablar con alguien.
+Assistant: Entiendo."
+69c6f86293749704bac31f4f,RT Buckhead,2026-03-27T17:36:36.998-04:00,00:16,UserHangup,TRUE,Unclassified,,,0,CALLER-7A5ABC4F,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: no. No. No. Okay.
+Assistant: Okay, how many guests will ..."
+69c550183561ccb216c3fe73,TF Oakwood,2026-03-26T11:26:18.620-04:00,00:28,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-7C65572E,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Hola, quiero poner una orden, por favor.
+Assistant: Dále— ¿Te ...
+Customer: Una orden de una orden de mini empanadas de pollo.
+Assistant: Dále— ...
+Customer: Y otra orden de, sí, la de las minis, y otra de de pequeño."
+69b9b7786551713542692fbd,RT Buckhead,2026-03-17T16:20:10.661-04:00,00:26,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-26BDFA5C,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: I want to talk with the manager.
+Assistant: No problem. I can transfer you to the manager. Would you like me to do that?
+Customer: Yep.
+Assistant: Great, connecting you now."
+69bf2a9ce852e2d6ded2692a,RT Buckhead,2026-03-21T19:32:46.977-04:00,00:32,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-2C1C3DBB,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Hello?
+Assistant: How can I help you today?
+Customer: Hello?
+Assistant: How can I help ...
+Customer: I need help with an order.
+Assistant: I'm sorry to hear that. To help you best, I'll connect you with our host. Would that be okay?
+Customer: Sure.
+Assistant: Great, connecting you now."
+69acc4c24bcab3cfc618c0d4,TF Oakwood,2026-03-07T19:37:24.691-05:00,00:22,UserHangup,TRUE,Unclassified,,,0,CALLER-5D48B7A5,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Hola, muy buenas tardes, Julie.
+Customer: Patty para pedirte.
+Assistant: Parece que hay un pequeño error en mi nombre, soy Yuli, no Julie. En qué puedo ayudarte hoy en Todo Frito Oakwood?"
+69cbf7bbd9bcd252518a1148,RT Buckhead,2026-03-31T12:35:09.632-04:00,00:46,CallTransfer,TRUE,Making a Reservation or Inquiring About Reservations,,,0,CALLER-9A722554,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Hello?
+Assistant: How can I help you?...
+Customer: Hello?
+Assistant: How can I help ...
+Customer: Yes. I was trying to cancel my order. I just placed the order online. Yes. Can you hear me?
+Assistant: I can hear you loud and clear. If the order was placed through OpenTable, it can usually be modified or canceled there. Does this information resolve your issue, or would you like help from a live agent?
+Customer: I would like help.
+Assistant: Great, connecting you to the host now."
+69a616633f59324f6dffcdac,RT Buckhead,2026-03-02T17:59:49.876-05:00,01:15,UserHangup,TRUE,Making a Reservation or Inquiring About Reservations,5,,0,CALLER-298394CC,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: I wanna make a reservation for five people on March six. At eight PM.
+Assistant: Okay, for how many people is the reservation?
+Customer: Five people.
+Assistant: Got it. Parties of five or more are coordinated by a manager. In case Buckhead cannot handle your party, are you willing to be relocated to one of our nearby locations, Chamblee and Sandy Springs, that are within ten minutes?
+Customer: No.
+Assistant: Under what name should I put the reservation?
+Customer: Robert.
+Assistant: So, you want to make a reservation for five people on March sixth at eight P.M. under the name Robert. Does that look correct?
+Customer: Correct.
+Assistant: Please wait while I submit your large party reservation request to our manager. I just sent your information to our managers, please check your messages you should receive an SMS with the details of your reservation, they will be reaching out soon!
+Assistant: Sorry, are ..."
+69b9e3a7039d9372ee0ff84d,TF Oakwood,2026-03-17T19:28:41.631-04:00,00:18,CallTransfer,TRUE,Unclassified,,,0,CALLER-338B09AE,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Es una computadora.
+Assistant: Disculpa la confusión. Entiendo que estás hablando con un asistente automatizado."
+69b494a961323dae29a5defc,TF Oakwood,2026-03-13T18:50:19.819-04:00,00:28,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-84874589,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Quiero hacer un pedido.
+Assistant: ¿Prefieres que te pase con un miembro del equipo para hacer tu pedido o te envío el link para ordenar en línea?
+Customer: Un miembro del equipo.
+Assistant: Enseguida te transfiero con alguien que te ayudará con tu pedido. Un momento, por favor."
+69adb6eade89918688ca5c18,TF Oakwood,2026-03-08T13:50:37.100-04:00,00:56,UserHangup,TRUE,Menu Inquiries and Special Dietary Needs,,,0,CALLER-A3995CCF,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Hola. Buenas tardes. Este, ¿tienen pescado?
+Assistant: Sí, tenemos pescado frito como parte de nuestros especiales diarios. ¿Te gustaría saber más sobre nuestro pescado frito o ver si tenemos otros platos que te gusten?
+Customer: No, no, está beef. Yo yo he ido a comer allí. Lo que quiero es este, porque yo voy como eso de las tres y media, sí, todavía habrán servicio. No no sabe.
+Assistant: Sí, estamos abiertos hasta la medianoche los domingos, así que a las tres y media de la tarde todavía estamos en servicio. ¿Quieres saber si tenemos algún plato especial o promoción que te pueda interesar para tu visita a las tres y media?
+Customer: No. Quiero es cornmeal pescado. Gracias.
+Assistant: Lo siento, no tenemos ...
+Customer: Eso es lo que
+Assistant: Parece que estás buscando algo específico en nuestro menú. Nuestro menú incluye arepas de maíz, que son cornmeal patties con diferentes ..."
+69bec05200b4b91c62421f80,TF Oakwood,2026-03-21T11:59:16.677-04:00,00:49,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-4E0D9128,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Popa.
+Assistant: ¿En qué puedo ayudarte hoy en Todo Frito Oakwood?
+Customer: Sopa.
+Assistant: Tenemos una deliciosa Beef Soup disponible en nuestros especiales diarios por doce dólares con noventa y nueve centavos. ¿Te gustaría saber más sobre ella o hacer un pedido?
+Customer: Hacer un pedido.
+Assistant: Puedo ayudarte a encontrar la información que necesitas para hacer tu pedido. ¿Te gustaría hablar con alguien de nuestro equipo para completar tu orden o prefieres que te envíe el enlace para hacer tu pedido en línea?
+Customer: No personal.
+Assistant: ¿Quieres que te envíe el enlace para hacer tu pedido en línea?
+Customer: No."
+69c46a49fdddd31f0b148a60,TF Oakwood,2026-03-25T19:05:48.027-04:00,00:21,UserHangup,TRUE,Making a Reservation or Inquiring About Reservations,8,,0,CALLER-D8C5436F,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Do you take reservations for parties of eight?
+Assistant: Sure thing— we don’t take reservations in ..."
+69aaf2704bcab3cfc6d50a1a,RT Buckhead,2026-03-06T10:27:46.607-05:00,00:24,UserHangup,,General Information and Amenities,,,0,CALLER-4C0308B2,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: You have parking.
+Assistant: Yes, we have plenty of parking at thirty three sixty five Piedmont Road NorthEast, Suite eleven twenty, and it's free for three hours. Anything else I can help you with?"
+69b627ca6551713542c61995,RT Buckhead,2026-03-14T23:30:20.950-04:00,00:55,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-1CF49579,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Order. Online order.
+Assistant: ¡Qué bueno. I can text you our online ordering link so you can place your pickup order. Would you like me to send you the link?
+Customer: No.
+Assistant: No problem. Is there anything else I can help you with?
+Assistant: Sorry, are you still on the line?
+Customer: Yes.
+Assistant: Great. How can I help?
+Customer: An iced sauce to somebody, an associate?
+Assistant: I'm sorry, I'm not sure I understand."
+69beab696a9ee6d2591ed501,TF Oakwood,2026-03-21T10:30:03.968-04:00,00:16,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-C524390B,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Hablar con una persona.
+Assistant: Claro, te transfiero con un miembro del equipo en un momento."
+69ac94aa264d99a30211e28f,RT Buckhead,2026-03-07T16:12:12.749-05:00,00:18,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-91B60978,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Talk to an agent.
+Assistant: Okay, connecting you to the ...
+Customer: I see Park right there."
+69c743603561ccb21603ce9e,RT Buckhead,2026-03-27T22:56:35.166-04:00,01:13,UserHangup,TRUE,Making a Reservation or Inquiring About Reservations,2,,0,CALLER-1B82B9BC,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Yes. This is Enrique. I was just calling to see if I can get on the reservation list for tomorrow.
+Assistant: Okay, Enrique, for how many people is the reservation?
+Customer: For two.
+Assistant: And what time works best for you tomorrow?
+Customer: About eight o'clock.
+Assistant: Under ...
+Customer: Or eight fifteen, somewhere around there.
+Assistant: Under what name should I put the ...
+Customer: Hello?
+Assistant: Yes, go ahead.
+Customer: Cruz, c r u z?
+Assistant: Two guests, tomorrow at eight fifteen P.M., under the name Cruz. Does that look correct?
+Customer: Yes.
+Assistant: I’m sorry—I couldn’t secure a table at that exact time. I’ve just sent you our OpenTable link so you can check real-time openings and pick the slot that suits you best. Is there anything else I can help you with?.
+Customer: No. I'll look at the times and see.
+Assistant: Perfect—thanks for calling Real Tacos. Enjoy your day."
+69b368c9dd23d1fbfebce8a2,RT Buckhead,2026-03-12T21:30:52.159-04:00,00:15,UserHangup,TRUE,,,,0,CALLER-111F4721,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Hi.
+Assistant: What are you in the mood for today?..."
+69c82baeac305b84d45d3f3b,RT Buckhead,2026-03-28T15:27:44.710-04:00,01:14,CallTransfer,TRUE,Making a Reservation or Inquiring About Reservations,2,,0,CALLER-70B87025,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Is there any available bills today at five fifteen?
+Assistant: Okay, for how many people is the reservation?
+Customer: Two. Make that five thirty.
+Assistant: And under what name should I put the reservation?
+Customer: Showers.
+Assistant: Okay, so you need a table for two at five thirty P.M. under the name Showers. Does that look correct?
+Customer: Dowers with a g.
+Assistant: Okay, so you need a table for two at five thirty P.M. under the name Dowers. Does that look correct?
+Customer: Yes.
+Assistant: I’m sorry—I couldn’t secure a table at that exact time. I’ve just sent you our OpenTable link so you can check real-time openings and pick the slot that suits you best. Is there anything else I can help you with?.
+Customer: Yes. Can I speak to a person, please?
+Assistant: Sure thing. I'm connecting you to the host now."
+69a4b84170ddb9e42ae13949,RT Buckhead,2026-03-01T17:05:55.539-05:00,00:21,UserHangup,TRUE,Making a Reservation or Inquiring About Reservations,8,,0,CALLER-D8C5436F,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Assistant: Sorry, are you still on the line?
+Customer: Do you take reservations for parties of eight?
+Assistant: Okay, for how many people is the reservation?..."
+69b6139b6551713542c4f55d,RT Buckhead,2026-03-14T22:04:14.058-04:00,00:22,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-97A8B94E,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Can I talk to a talkmate?
+Assistant: Did you mean to say talk to someone?
+Customer: Yeah.
+Assistant: Sure thing. Would you like me to transfer you to the host?"
+69cc693911965ea81e7f75cf,TF Oakwood,2026-03-31T20:39:23.541-04:00,00:30,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-74505205,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Para realizar un pedido,
+Assistant: ¡Claro. ¿Prefieres hablar con un miembro de nuestro equipo o prefieres que te envíe el Link para realizar tu pedido de retiro en línea?
+Customer: Con un miembro del equipo, por favor.
+Assistant: Perfecto, te comunico con un miembro de nuestro equipo ahora mismo."
+69c0568a65aebbe929395ddf,RT Buckhead,2026-03-22T16:52:28.233-04:00,01:20,CallTransfer,TRUE,Making a Reservation or Inquiring About Reservations,6,,0,CALLER-A1148F0F,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Reservation.
+Assistant: Okay. How many guests will be in your party?
+Customer: Sí.
+Assistant: ¿Cuántas personas estarán en tu grupo?
+Customer: English.
+Assistant: Okay. How many guests will be in your party?
+Customer: Sí.
+Assistant: I can help you with that. How many guests will be in your party?
+Customer: Six.
+Assistant: Got it. Parties of five or more are coordinated by a manager. In case Buckhead cannot handle your party, are you willing to be relocated to one of our nearby locations, Chamblee and Sandy Springs, that are within ten minutes?
+Customer: No.
+Assistant: Okay. Under what name should I put the reservation?
+Customer: Birria.
+Assistant: I am sorry, I was unable to collect the data correctly. Would you like to speak with the host?
+Customer: Yes.
+Assistant: Great, connecting you now."
+69b71f5210d10be09b8d8d58,RT Buckhead,2026-03-15T17:06:28.306-04:00,02:42,UserHangup,TRUE,Making a Reservation or Inquiring About Reservations,5,,0,CALLER-5BD643D2,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: I'd like to make a reservation.
+Assistant: ¡Genial. ¿Para cuántas personas sería la reservación?
+Customer: Five.
+Assistant: ¡Entendido. Las reservaciones para grupos de cinco o más personas las coordina un gerente. En caso de que Buckhead no pueda atender a tu grupo, ¿estás dispuesto a que te reubiquen en una de nuestras ubicaciones cercanas, ya sea Chamblee o Sandy Springs, que están a diez minutos?
+Assistant: Sorry, are you still on the line?
+Customer: Yeah.
+Assistant: ¿Te gustaría excluir alguna de las opciones dadas?
+Customer: Speak English.
+Assistant: My bad. Would you like to exclude any of the given options?
+Customer: I don't know what you said.
+Assistant: My bad. Would you like to exclude any of the given options?
+Customer: What are the given options?
+Assistant: The given options are Chamblee and Sandy Springs. Would you like to exclude any of them?
+Customer: I wanna make a reservation at Buckhead.
+Assistant: Got it. Parties of five or more are coordinated by a manager. In case Buckhead cannot handle your party, are you willing to be relocated to one of our nearby locations them being Chamblee"" and ""Sandy Springs"" that are within ten minutes?
+Customer: No.
+Assistant: Okay. What date and time works best?
+Customer: March seventeenth at six PM.
+Assistant: Under what name should I put the reservation?
+Customer: Anna.
+Assistant: Five guests, March seventeenth at six P.M., under the name Anna. Does that look correct?
+Customer: Yes. At the Buckhead location.
+Assistant: Please wait while I submit your large party reservation request to our manager. I just sent your information to our managers, please check your messages you should receive an SMS with the details of your reservation, they will be reaching out soon!
+Customer: Thank you.
+Assistant: Perfect—thanks for calling Real Tacos. Enjoy your day."
+69c68bb51f8b1488f52f3355,TF Oakwood,2026-03-27T09:52:55.655-04:00,00:20,UserHangup,TRUE,,,,0,CALLER-E388D441,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?"
+69bf5b5e65aebbe9292a333a,RT Buckhead,2026-03-21T23:00:48.898-04:00,01:19,UserHangup,TRUE,Making a Reservation or Inquiring About Reservations,4,,0,CALLER-D12BEC91,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: ¿Cómo está? Make a reservation, bitch as
+Assistant: I'm doing great, thank you. How many guests will be in your party?
+Customer: Four people.
+Assistant: Okay, what date and time works best?
+Customer: Today, eleven thirty.
+Assistant: Under what name should I put the reservation?
+Customer: Today.
+Assistant: Under what name should I put the reservation?
+Customer: Ready. Jose. Pins Drive.
+Assistant: Jose, does that look correct? Four people for today at eleven thirty under the name Jose?
+Customer: Yes.
+Assistant: I’m sorry—I couldn’t secure a table at that exact time. I’ve just sent you our OpenTable link so you can check real-time openings and pick the slot that suits you ..."
+69b4ac76477db9185edcf4a8,RT Buckhead,2026-03-13T20:31:52.620-04:00,00:22,UserHangup,TRUE,Unclassified,,,0,CALLER-4C96025E,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Hello?
+Assistant: How can I help you?..."
+69b42c176896046c69c11d07,TF Oakwood,2026-03-13T11:24:09.850-04:00,01:04,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-78BC130E,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Hola, para hacer un pepito.
+Assistant: ¿Te gustaría información sobre nuestro menú de Pepitos o deseas hacer un pedido?
+Customer: Hacer un pepito.
+Assistant: Disculpa, ¿quieres decir que deseas hacer un pedido de un Pepito o necesitas información sobre nuestro menú de Pepitos?
+Customer: Necesito hacer un pedido
+Assistant: Para hacer un pedido, ¿prefieres hablar con un miembro de nuestro equipo o te envío el enlace para hacer tu pedido en línea?
+Customer: No.
+Assistant: ¿Quieres que ...
+Customer: Hablar con un miembro de tu equipo.
+Assistant: Entiendo. Te transferiré con un miembro de nuestro equipo para que puedan ayudarte con tu pedido. Un momento, por favor."
+69b319bc936cfd5397831720,RT Buckhead,2026-03-12T15:53:34.380-04:00,01:47,CallTransfer,TRUE,Making a Reservation or Inquiring About Reservations,7,,0,CALLER-4B784C54,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Yes. I had a reservation for
+Assistant: If the ...
+Customer: April twenty fourth, but
+Assistant: For how many people ...
+Customer: April twenty fourth, but I actually messaged saying I'm sorry?
+Assistant: If the reservation was made through ...
+Customer: It was for
+Assistant: For how many people is the reservation?
+Customer: Actually, no. I lied. It was more than five people. It was seven people, so I need to change it to seven people, and it's supposed to be April twenty fifth.
+Assistant: Okay, since your party is more than five people, a manager will need to coordinate. In case Buckhead cannot handle your party, are you willing to be relocated to one of our nearby locations, Chamblee and Sandy Springs, that are within ten minutes?
+Customer: No. We can't. We don't have a vehicle.
+Assistant: Under what name should I put the reservation?
+Customer: Van Gazbek.
+Assistant: Okay, so that's for seven people on April twenty fifth under the name Van Gazbek. Does that look correct?
+Customer: Yes.
+Assistant: Please wait while I submit your large party reservation request to our manager. I just sent your information to our managers, please check your messages you should receive an SMS with the details of your reservation, they will be reaching out soon!
+Customer: The wrong
+Customer: The wrong it should be five o'clock, five PM.
+Assistant: I am an AI virtual assistant and I can intent only one reservation per call. Would you like to speak with the host?
+Customer: Yes. Yes."
+69c487a4760686a6c6dd1b61,TF Oakwood,2026-03-25T21:11:03.214-04:00,00:31,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-49F50C88,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Hola, por favor. ¿Me preparas una hamburguesa triple
+Assistant: Lo siento, no puedo tomar pedidos directamente. ¿Te gustaría hablar con un miembro del equipo o recibir el enlace para hacer tu pedido en línea?
+Customer: Hablar con un miembro del equipo.
+Assistant: Claro— te transferiré con un miembro de nuestro equipo para que puedan ayudarte con tu pedido. Un momento, por favor."
+69c9da59fdcc3ea0972e9fd4,RT Buckhead,2026-03-29T22:05:16.252-04:00,00:49,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-FD7D8E9E,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Was trying to place an online order.
+Assistant: Awesome. I can text you our online ordering link so you can place your pickup order.
+Customer: It's not working. It says not acceptance. Current orders online.
+Assistant: I am sorry to hear that you are having issues with your online order. Would you like to speak with the host?
+Assistant: Sorry, are you still on the line?
+Customer: Yes. I would like to speak with the host.
+Assistant: Great, connecting you now.
+Customer: Thank you."
+69a72c86408ccb4b79f049aa,TF Oakwood,2026-03-03T13:46:32.860-05:00,00:25,UserHangup,TRUE,Unclassified,,,0,CALLER-2FA91DCD,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Hola. Buena.
+Assistant: Buena. En qué puedo ayudarte hoy ...
+Customer: Hola.
+Assistant: Estoy aquí para ayudarte. ¿Necesitas información sobre nuestro menú, horarios o algo más en Todo Frito Oakwood?"
+69b58d0c039d9372ee74bd14,TF Oakwood,2026-03-14T12:30:06.788-04:00,00:30,UserHangup,TRUE,Menu Inquiries and Special Dietary Needs,,,0,CALLER-54FEDD72,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Hola.
+Assistant: En qué puedo ayudarte hoy en Todo Frito Oakwood?
+Customer: Necesita hacer un peso para comer three bien todo frito.
+Assistant: Parece que estás buscando información sobre nuestro menú. Antes de ayudarte, ¿estás buscando información sobre nuestros platos o deseas hacer un pedido?"
+69adab7f638d0bab9bb6bc31,TF Oakwood,2026-03-08T13:01:53.582-04:00,00:09,UserHangup,TRUE,Unclassified,,,0,CALLER-C4AA6703,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: No."
+69c710d63561ccb21601fdde,TF Oakwood,2026-03-27T19:20:56.816-04:00,00:28,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-9E122B4F,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Ordenal comida.
+Assistant: Para ordenar comida, ¿te gustaría hablar con uno de nuestros representantes o que te envíe el enlace para hacer tu pedido en línea?
+Customer: Representante.
+Assistant: Claro— te transferiré con un miembro de nuestro equipo para ayudarte con tu pedido. Un momento, por favor."
+69c961e836dfa226c40868d7,TF Oakwood,2026-03-29T13:31:22.366-04:00,00:54,UserHangup,TRUE,Menu Inquiries and Special Dietary Needs,,,0,CALLER-602B62DD,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Hola, muy buenas tardes. Solo tenía una pregunta.
+Assistant: Dále— ¿En qué puedo ayudarte hoy?
+Customer: Viene en sopa.
+Assistant: Claro— Tenemos Beef Soup, que es una sopa de carne con verduras y caldo, y cuesta doce dólares con noventa y nueve centavos. ¿Te gustaría saber más sobre ella o algo más del menú?
+Customer: Solamente.
+Customer: Voy a llegar ahorita, disculpe.
+Assistant: No hay problema— Estamos abiertos hasta la medianoche hoy. ¿Necesitas saber el tiempo de espera para una mesa o algo más?
+Customer: No,
+Assistant: Buenísimo— Entonces, te esperamos. ¡Disfruta tu visita en Todo Frito Oakwood.
+Customer: Gracias.
+Assistant: De nada...."
+69a4fe9570ddb9e42ae2e4dd,TF Oakwood,2026-03-01T22:05:59.702-05:00,00:21,UserHangup,TRUE,Making a Reservation or Inquiring About Reservations,8,,0,CALLER-D8C5436F,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Do you take reservations for parties of eight?
+Assistant: Lo siento, Todo Frito Oakwood no acepta reservas anticipadas...."
+69ab0182de89918688637084,TF Oakwood,2026-03-06T11:32:05.192-05:00,00:15,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-CCAF2EA2,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Manager.
+Assistant: ¿Quieres hablar con un representante? La llamada será transferida en breve."
+69a9908e56036b341cfea566,RT Buckhead,2026-03-05T09:17:52.539-05:00,00:44,UserHangup,,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,csf,1,CALLER-8A0F465E,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Manager.
+Assistant: Since we're closed right now, I can't transfer you to a manager. Would you like me to send you a link to our customer support form so our team can follow up with you when we reopen?
+Customer: Yes.
+Assistant: Great, I can send you a link to our customer support form. Would you like to receive it via SMS?
+Customer: Yes.
+Assistant: Perfecto, I've sent the link. Is there anything else I can help you with?"
+69b77e0010d10be09b904c84,TF Oakwood,2026-03-15T23:50:26.472-04:00,00:34,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-4C46144B,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Sí, bueno.
+Assistant: ¿En qué puedo asistirte hoy en Todo Frito Oakwood?
+Customer: Para hacer una orden.
+Assistant: ¿Te gustaría hablar con un miembro del equipo o enviarte el enlace para hacer tu pedido en línea?
+Customer: Hablar con alguien.
+Assistant: En un momento te transferiré con un miembro de nuestro equipo para que te ayude con tu pedido."
+69b0a743965da50bb51ab166,TF Oakwood,2026-03-10T19:20:37.837-04:00,01:14,UserHangup,TRUE,General Information and Amenities,,,0,CALLER-D4549EF3,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: ¿Qué promoción tienen hoy, Jelly?
+Customer: ¿Hello?
+Assistant: I'm Yuli, nice to meet you. Today is Tuesday, and we have a special promotion called Sombrero Tuesday, which includes a burger, fries, and drinks for thirty-four dollars and ninety-nine cents. Would you like more details about it?
+Customer: My
+Assistant: It ...
+Customer: Uh, can you speak Spanish?
+Assistant: Sí, ...
+Customer: Hold on. Hold on.
+Assistant: No hay ...
+Customer: ¿Cuál es la promoción del día de hoy?
+Assistant: Hoy es martes y tenemos la promoción Sombrero Tuesday"" que incluye una hamburguesa, papas fritas y bebidas por treinta y cuatro dólares con noventa y nueve centavos. ¿Te gustaría saber más sobre ella?
+Customer: No. Gracias. Buenas noches.
+Assistant: De nada...."
+69cbf78e576487e62f6256fa,RT Buckhead,2026-03-31T12:34:25.106-04:00,00:14,UserHangup,TRUE,Unclassified,,,0,CALLER-9A722554,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Hello?
+Assistant: How can I help you?..."
+69b9eb70039d9372ee1026f8,TF Oakwood,2026-03-17T20:01:54.992-04:00,00:35,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-B3E585B4,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Acabo de buscar una orden Acabo de buscar una orden y que
+Assistant: Parece que estabas buscando información sobre una orden. ¿Quieres hablar con un miembro del equipo para ayudarte con tu orden o prefieres que te envíe el enlace para hacer tu pedido en línea?
+Customer: Sí. Habla con una gente.
+Assistant: ¿Podrías repetir eso, por favor?
+Customer: Para hablar con alguien."
+69c56b8593749704ba8b40eb,RT Buckhead,2026-03-26T13:23:19.337-04:00,00:20,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-7E156118,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Representative.
+Assistant: Do you want to speak with a representative?"
+69b2094e86bb8ca124a650ef,TF Oakwood,2026-03-11T20:31:12.956-04:00,00:17,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-02CB6BAF,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Con un operador
+Assistant: ¿Podrías decirme un poco más sobre por qué necesitas hablar con un miembro de nuestro equipo?"
+69ab54184bcab3cfc6d93266,TF Oakwood,2026-03-06T17:24:27.007-05:00,00:06,UserHangup,TRUE,,,,0,CALLER-4C6132E5,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ..."
+69b4b83c93558002db791dd9,RT Buckhead,2026-03-13T21:22:06.504-04:00,00:08,UserHangup,TRUE,,,,0,CALLER-66FF2F48,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?"
+69c09276d04f7f4078d75351,TF Oakwood,2026-03-22T21:08:09.256-04:00,00:47,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-93D441C5,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: ¿Sí? ¿Sí? ¿Sí va a hacer un pedido?
+Assistant: Disculpa, no te escuché bien. ¿Estás buscando información sobre nuestro menú o deseas hacer un pedido?
+Customer: Steak va a hacer un pedido.
+Assistant: ¿Quieres pedir algo para recoger o que te lo entreguen a domicilio?
+Customer: Para recoger.
+Assistant: ¿Te gustaría hablar con alguien de nuestro equipo para hacer tu pedido o prefieres que te envíe el enlace para hacer tu pedido en línea?
+Customer: Hablar con alguien.
+Assistant: En un momento te transferiré con un miembro de nuestro equipo para que puedas hacer tu pedido."
+69b1a76d86bb8ca124a432f9,TF Oakwood,2026-03-11T13:33:36.252-04:00,00:29,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-0DC30304,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Para ordenar
+Assistant: ¿Te gustaría hablar con un miembro del equipo o enviarte el enlace para hacer tu pedido en línea?
+Customer: Hablar con alguien del equipo.
+Assistant: En un momento te transferiré con un miembro de nuestro equipo. ¡Gracias por esperar."
+69ac37c84bcab3cfc6122216,TF Oakwood,2026-03-07T09:35:54.217-05:00,00:29,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-BA81418B,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Can I call it on onion?
+Assistant: No entiendo. ¿Podrías repetir tu pregunta, por favor?
+Customer: Halak con onion.
+Assistant: Lo siento, no entiendo. ¿Podrías hablar un poco más claro o repetir tu pregunta?
+Customer: Hablar con alguien.
+Assistant: ¿Quieres hablar con alguien de nuestro equipo? La llamada será transferida a un miembro de nuestro equipo en breve."
+69c5b6881f8b1488f5fd2b1f,RT Buckhead,2026-03-26T18:43:22.899-04:00,01:32,UserHangup,TRUE,Making a Reservation or Inquiring About Reservations,2,,0,CALLER-258800D8,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Do you have to have reservations? Dine in?
+Assistant: We do accept reservations for dine-in. How many guests will be in your party?
+Customer: Just two.
+Assistant: Okay, what date and time works best?
+Customer: around seven thirty.
+Assistant: And what date would that be?
+Customer: March twenty six.
+Assistant: Under what name should I put the reservation?
+Customer: West.
+Assistant: Okay, so that's a party of two for today, March twenty-sixth, at seven thirty P.M. under the name West. Does that look correct?
+Customer: Yes.
+Assistant: Great news! your reservation was successful, please check your messages you should receive the booking confirmation link. Is there anything else I can help you with?.
+Customer: No.
+Assistant: Perfect—thanks for calling Real Tacos. Enjoy your day."
+69a5d3920c39c4592e002e42,TF Oakwood,2026-03-02T13:14:44.777-05:00,00:51,CallTransfer,TRUE,Menu Inquiries and Special Dietary Needs,,,0,CALLER-26409AAF,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Hey. Julie Mendez queso con chocolate?
+Assistant: ¿Quieres información del menú o te gustaría hacer un pedido?
+Customer: Información del menor.
+Assistant: Disculpa, no tenemos Julie Mendez queso con chocolate"" en nuestro menú. Nuestro menú incluye opciones como Cachapa Monday, Sombrero Tuesday, Arepa Wednesday, entre otros. ¿Te gustaría saber más sobre nuestras promociones o platos especiales?
+Customer: Sí.
+Assistant: Tenemos eventos recurrentes como Happy Hour ...
+Customer: Pásame pásame pásame a alguien de la vida real.
+Customer: C."
+69b9e36b65517135426a9455,TF Oakwood,2026-03-17T19:27:41.429-04:00,00:34,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-A792E8FF,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Hacer una orden.
+Assistant: ¿Quieres hacer un pedido para recoger o para entrega a domicilio?
+Customer: Recoger.
+Assistant: ¿Te gustaría hablar con un miembro del equipo para hacer tu pedido o prefieres que te envíe el enlace para hacer tu pedido en línea?
+Customer: Hablar con un miembro del equipo.
+Assistant: En un momento te transferiré con un miembro de nuestro equipo para que puedas hacer tu pedido."
+69bf4a4be852e2d6ded37fda,RT Buckhead,2026-03-21T21:47:57.413-04:00,01:03,UserHangup,TRUE,Making a Reservation or Inquiring About Reservations,2,,0,CALLER-1EC5DAE5,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Hi. Do you take call ahead reservations?
+Assistant: I sure can help with that. For how many people is the reservation?
+Customer: Two
+Assistant: Okay. What date and time works best?
+Customer: Today at ten fifteen.
+Assistant: Under what name should I put the reservation?
+Customer: For Sara,
+Assistant: Two people, today, March twenty-first at ten fifteen P.M., under the name Sara. Does that look correct?
+Customer: Yeah.
+Assistant: I’m sorry—I couldn’t secure a table at that exact time. I’ve just sent you our OpenTable link so you can check real-time openings and pick the slot that suits you best. Is there anything else I can help you with?.
+Customer: No. Thank you.
+Assistant: Perfect—thanks for calling Real Tacos. Enjoy your day...."
+69b46363477db9185edad1c6,RT Buckhead,2026-03-13T15:20:05.844-04:00,01:10,UserHangup,TRUE,Making a Reservation or Inquiring About Reservations,2,,0,CALLER-7017452D,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Can I make a reservation?
+Assistant: Okay, for how many people is the reservation?
+Assistant: Sorry, are you still on the line?
+Customer: Yes. I'm here.
+Assistant: Okay, for how many people is the reservation?
+Customer: It's for two.
+Assistant: And what date and time works best?
+Customer: Today at nine PM.
+Assistant: Under what name should I put the reservation?
+Customer: Brandon Colby.
+Assistant: Two people for today, March thirteenth, at nine P.M. under the name Brandon Colby. Does that look correct?
+Customer: Yes.
+Assistant: I’m sorry—I couldn’t secure a table at that exact time. I’ve just sent you our OpenTable link so you can check real-time ..."
+69c40521d514b1b56903b450,RT Buckhead,2026-03-25T11:54:11.329-04:00,00:57,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-DEB54E57,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Hey, Nacho. Eric here. I'm calling in as I'm at ordering a delivery for tomorrow.
+Assistant: I am unable to take delivery orders directly. However, I can text you our online ordering link so you can place your ...
+Customer: oh, no. Just yeah. I'm there.
+Assistant: Perfect—thanks for calling Real Tacos. Enjoy your day.
+Customer: I can't find hello?
+Assistant: I'm sorry, could you ...
+Customer: I can't find a place to buy salsa.
+Assistant: I can help with that. Are you in the mood for something mild, spicy, or extra hot?
+Customer: alright. Give me a fucking person."
+69b96fcc49be61fe96324a7b,RT Buckhead,2026-03-17T11:14:22.728-04:00,00:15,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-BC63AABC,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Person please. Speak with a person, please."
+69b1f3dbdb7533c9cbdea100,TF Oakwood,2026-03-11T18:59:42.178-04:00,01:10,UserHangup,TRUE,Unclassified,,,0,CALLER-E40ABA02,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Hola.
+Assistant: En qué puedo ayudarte hoy en Todo Frito Oakwood?
+Customer: Una máquina.
+Assistant: Lo siento, no entiendo. ¿Podrías repetir o aclarar a qué te refieres con una máquina""? Estoy aquí para ayudarte con cualquier pregunta o necesidad que tengas en Todo Frito Oakwood.
+Customer: Me van a transmitir el juego en el la tienda.
+Assistant: Parece que estás buscando información sobre eventos o actividades en Todo Frito Oakwood. ¿Quieres saber si estamos transmitiendo algún juego o evento en particular en nuestra tienda?
+Customer: Me.
+Assistant: Parece que no estoy entendiendo completamente tu pregunta. ¿Podrías darme más detalles o aclarar qué necesitas saber sobre Todo Frito Oakwood? Estoy aquí para ayudarte.
+Customer: Van a estar transmitiendo el juego de Venezuela hoy.
+Assistant: Lo siento, no tengo información sobre eventos específicos como la transmisión de un juego en Todo Frito Oakwood. Sin embargo, tenemos eventos recurrentes ..."
+69ca7c453561ccb2169ede57,TF Oakwood,2026-03-30T09:36:07.520-04:00,00:18,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-416990E6,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Hablar con un representante.
+Assistant: Claro— Enseguida te transfiero con un miembro de nuestro equipo."
+69bed4026b897b8303373524,RT Buckhead,2026-03-21T13:23:16.423-04:00,01:11,UserHangup,TRUE,Making a Reservation or Inquiring About Reservations,2,,0,CALLER-E2CC15DD,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Hi. I was calling to see if it was possible to reserve a table. Do you guys do that or just walk in?
+Assistant: ¡Claro que sí. How many guests will be in your party?
+Customer: It's just two. It's two of us, but I wanted to I know it's nice out, so I wanted to make sure that we would be able to get a patio tea.
+Assistant: Okay, and what date and time works best? I am an AI virtual assistant and can only check indoor seating at the moment.
+Customer: Oh, today. Today at three o'clock.
+Assistant: Under what name should I put the reservation?
+Customer: Danny.
+Assistant: Two guests, today at three P.M. under the name Danny, does that look correct?
+Customer: Yes. But specifically for the patio.
+Assistant: I am an AI and can only check indoor seating at the moment. Two guests, today at three P.M. under the name Danny, does that look correct?"
+69bb3e2a5ac8d576985d17e5,TF Oakwood,2026-03-18T20:07:08.699-04:00,00:58,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-C39D7618,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Buenas noches, Julie. ¿Cómo estás? Julie, ¿tienen hoy el combo de las arepas?
+Assistant: Buenas noches. Me llamo Yuli, no Julie, pero no hay problema. Sí, tenemos arepas hoy. El combo de arepas está disponible los miércoles. Hoy es miércoles, así que sí, tenemos Arepa Wednesday"" - cuatro arepas y dos bebidas por catorce dólares con noventa y nueve centavos. ¿Te gustaría saber más sobre el menú o hacer un pedido?
+Customer: No solo hacer el pedido de la ajá. Este, mira, quiero dos de pollo corn todo y dos de carne mechada, sin nada de vegetales.
+Assistant: Lo siento, pero no puedo tomar pedidos directamente. ¿Te gustaría hablar con un miembro del equipo para hacer tu pedido o te envío el enlace para que lo hagas en línea?
+Customer: Ay, no envíame una persona para hablar, por favor.
+Assistant: En un momento te transferiré con un miembro de nuestro equipo para que puedas hacer tu pedido."
+69ba06ad10d10be09b2361c7,RT Buckhead,2026-03-17T21:58:07.951-04:00,00:23,UserHangup,TRUE,Questions About Restaurant Hours and Wait Times,3,,0,CALLER-A27E1558,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Hi. I wanted to know how long was the wait time for three people.
+Assistant: Let me check that for you. The current wait time is about thirty minutes.
+Customer: Okay. Thank you."
+69c5a0431f8b1488f5fcafeb,TF Oakwood,2026-03-26T17:08:21.574-04:00,00:21,UserHangup,TRUE,Making a Reservation or Inquiring About Reservations,8,,0,CALLER-D8C5436F,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Do you take reservations for parties of eight?
+Assistant: Dále— Todo Frito Oakwood doesn't accept reservations; we operate on a walk-in ..."
+69aafe6a4bcab3cfc6d58425,TF Oakwood,2026-03-06T11:18:53.279-05:00,01:33,UserHangup,TRUE,Placing an Order for Takeout or Delivery,,"delivery, pickup",2,CALLER-5F0C5DEE,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Julie, quiero hacer un pedido
+Assistant: Hola. Gracias por llamar a Todo Frito Oakwood. Para hacer un pedido, ¿te gustaría hablar con un miembro del equipo o enviarte el enlace para hacer tu pedido en línea?
+Customer: El enlace.
+Assistant: Te voy a enviar el enlace para que puedas hacer tu pedido de retiro en línea. ¿Quieres recibir el enlace por mensaje de texto?
+Customer: Bueno.
+Assistant: estoy en linea
+Customer: Sweet, por favor.
+Assistant: Te acabo de enviar el enlace para tu pedido de retiro por mensaje de texto. ¿Necesitas algo más?
+Customer: No, quiero saber si puedo hacer un orden de delivery.
+Assistant: Puedes hacer un pedido de entrega. ¿Te gustaría hablar con un miembro del equipo o enviarte el enlace para hacer tu pedido de entrega en línea?
+Customer: For no member, I'll give you a full favor.
+Assistant: No puedo tomar tu pedido directamente. Te voy a enviar el enlace para que puedas hacer tu pedido de entrega en línea. ¿Quieres recibir el enlace por mensaje de texto?..."
+69cc8839d7ab7a643834afdc,RT Buckhead,2026-03-31T22:51:39.340-04:00,00:11,UserHangup,TRUE,,,,0,CALLER-6582B45E,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?"
+69b9ee3449be61fe96364468,TF Oakwood,2026-03-17T20:13:42.927-04:00,00:26,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,delivery,1,CALLER-C9C3529D,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: ¿Tienes delivery?
+Assistant: Sí, ofrecemos delivery. ¿Prefieres que te pase con un miembro del equipo o que te envíe el link para hacer tu pedido en línea?
+Customer: Envía Merlin, for favor."
+69ac3549264d99a3020e5aff,TF Oakwood,2026-03-07T09:25:15.709-05:00,00:16,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-BA81418B,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Habla con un operador."
+69b9b00349be61fe9634c606,RT Buckhead,2026-03-17T15:48:21.587-04:00,00:24,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-8C7A199E,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Manager, manager, manager.
+Assistant: Okay. I can connect you to the manager. Would you like me to do that?
+Customer: Yes.
+Assistant: Great, connecting you now."
+69b9e330039d9372ee0ff284,TF Oakwood,2026-03-17T19:26:43.018-04:00,00:33,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-A792E8FF,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Hacer una orden.
+Assistant: ¿Quieres hacer un pedido para recoger o para entrega a domicilio?
+Customer: Para recoger.
+Assistant: ¿Te gustaría hablar con un miembro del equipo para hacer tu pedido o prefieres que te envíe el enlace para hacer tu pedido en línea?
+Customer: Hablar con un miembro del equipo.
+Assistant: En un momento te transferiré con un miembro de nuestro equipo para que puedas hacer tu pedido."
+69b9ed56039d9372ee10359d,TF Oakwood,2026-03-17T20:10:01.031-04:00,00:17,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-038D2FE9,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Julia.
+Assistant: Hola Julia, ¿en qué ...
+Customer: Necesito hablar con una persona.
+Assistant: Claro, Julia. Te transferiré con un miembro de nuestro equipo en un momento."
+69b0a3d35676d92efe1d5e03,TF Oakwood,2026-03-10T19:05:57.487-04:00,00:21,UserHangup,TRUE,Making a Reservation or Inquiring About Reservations,8,,0,CALLER-D8C5436F,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Do you take reservations for parties of eight?
+Assistant: Todo Frito Oakwood doesn't accept reservations in advance; you're welcome to ..."
+69bace84039d9372ee58f48f,TF Oakwood,2026-03-18T12:10:47.100-04:00,00:15,AgentHangup,TRUE,Unclassified,,,0,CALLER-F731CCE2,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Regarding your Google Business account.
+Assistant: ¿Podrías repetir ...
+Customer: Our system shows numerous searches for your business via Google and Google voice clients are currently having trouble finding you."
+69ab0f4e4bcab3cfc6d6b3f0,TF Oakwood,2026-03-06T12:30:56.664-05:00,00:20,UserHangup,TRUE,,,,0,CALLER-9E622DBE,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?"
+69a4fe3570ddb9e42ae2e20e,RT Buckhead,2026-03-01T22:04:23.972-05:00,00:19,UserHangup,TRUE,Questions About Restaurant Hours and Wait Times,,,0,CALLER-4469ABE2,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Hi. How busy are you guys?
+Assistant: Let me check that for you. The current wait time for dine-in is about thirty minutes."
+69b9d7e510d10be09b22368f,TF Oakwood,2026-03-17T18:38:31.416-04:00,00:21,UserHangup,TRUE,Menu Inquiries and Special Dietary Needs,,,0,CALLER-06D55E02,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Alo, buenas noches. Una pregunta, style, ¿tienen disponibilidad de caja de sal de cincuenta piezas?
+Assistant: Lo siento, pero no tenemos información sobre cajas de sal de cincuenta piezas en nuestro menú. ¿Te gustaría saber más sobre nuestros platos o bebidas disponibles?..."
+69c72f613b03748519b1b13f,RT Buckhead,2026-03-27T21:31:15.549-04:00,01:11,UserHangup,TRUE,Making a Reservation or Inquiring About Reservations,3,,0,CALLER-2D05665C,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Hi. Could I make a reservation for three for tomorrow?
+Assistant: ¡Qué bueno. How many guests will be in your party?
+Customer: Three
+Assistant: And what date and time works best?
+Customer: Saturday, the twenty eighth. Of March.
+Assistant: And what time would you like to make the reservation ...
+Customer: And eight PM
+Assistant: Under what name should I put the reservation?
+Customer: Dorothy.
+Assistant: Okay, so that's a table for three on Saturday, March twenty eighth at eight P.M. under the name Dorothy. Does that look correct?
+Customer: Yes. That was correct.
+Assistant: I’m sorry—I couldn’t secure a table at that exact time. I’ve just sent you our OpenTable link so you can check real-time openings and pick the slot that suits you best. Is there anything else I can help you with?."
+69a3bb3670ddb9e42ad5742c,TF Oakwood,2026-02-28T23:06:16.814-05:00,00:21,UserHangup,TRUE,Making a Reservation or Inquiring About Reservations,8,,0,CALLER-D8C5436F,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Do you take reservations for parties of eight?
+Assistant: Todo Frito Oakwood doesn't accept reservations in advance...."
+69b6012c039d9372ee7953c7,RT Buckhead,2026-03-14T20:45:34.948-04:00,00:29,UserHangup,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-AE3BAE17,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Hi. Can I order for pickup?
+Assistant: Awesome. I can text you our online ordering link so you can place your pickup order.
+Customer: Can I order through you?
+Assistant: I am not able to take orders directly, but I can send you a link to place a pickup order online. Would you like me to send you the link?"
+69ac57eb264d99a30210167d,TF Oakwood,2026-03-07T11:53:01.301-05:00,00:53,UserHangup,TRUE,Menu Inquiries and Special Dietary Needs,,,0,CALLER-3AF3708C,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Sí. Buenas tardes. Haga, un favor, una pregunta. ¿Usted tiene el pescado fried toy?
+Assistant: Disculpa, no entiendo fried toy"". ¿Te refieres al ""Fried Fish"", nuestro pescado frito del día? Está disponible como parte de nuestros especiales diarios por catorce dólares con noventa y nueve centavos.
+Customer: ¿Hasta qué horas tienen, eh, pescado frito hoy?
+Assistant: Hoy es sábado y estamos abiertos hasta la medianoche. Nuestro horario de cocina es hasta las once de la noche. Puedes disfrutar de nuestro pescado frito hasta esa hora.
+Customer: K.
+Assistant: ¿Necesitas algo más o tienes alguna otra pregunta?
+Customer: Nada más. Gracias.
+Assistant: De nada. Gracias por llamar a Todo Frito Oakwood. Que tengas un buen día...."
+69b5f75f10d10be09b7f116f,TF Oakwood,2026-03-14T20:03:45.531-04:00,00:18,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,pickup,1,CALLER-4CDCD44F,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Hola, por favor hablar con alguien.
+Assistant: ¿Te gustaría hablar con un representante de nuestro equipo? Estoy aquí para transferir la ...
+Customer: Sí. Para hacer un pedido para llevar."
+69cc6df211965ea81e7f8913,TF Oakwood,2026-03-31T20:59:32.948-04:00,00:23,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-820CB2B4,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Necesito hacer un pedido con alguna persona real.
+Assistant: Claro, con gusto te comunico con uno de nuestros compañeros para que te ayude con tu pedido."
+69cb13effdcc3ea097658775,TF Oakwood,2026-03-30T20:23:13.734-04:00,00:33,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-5F4DA952,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Aló, buenas noches.
+Assistant: ¡Buenas ...
+Customer: Este, para hacer una orden.
+Assistant: ¡Buenísimo....
+Customer: Sí, buenas noches.
+Assistant: ¡Buenísimo. ¿Prefieres hablar con un miembro de nuestro equipo para realizar tu pedido o prefieres que te envíe el Link para hacerlo en línea?
+Customer: No, con un miembro, por Aló, con un miembro del equipo, por"
+69c868b474c7fcb2a9d5ff36,RT Buckhead,2026-03-28T19:48:06.366-04:00,00:51,CallTransfer,TRUE,Making a Reservation or Inquiring About Reservations,7,,0,CALLER-2DB2A535,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Yes. Can I schedule a reservation?
+Assistant: Claro que sí. How many guests will be in your party?
+Customer: Seven
+Assistant: Got it. Parties of five or more are coordinated by a manager. In case Buckhead cannot handle your party, are you willing to be relocated to one of our nearby locations, Chamblee and Sandy Springs, that are within ten minutes?
+Customer: No.
+Assistant: Okay. Under what name should I put the reservation?
+Customer: Jayla, can I talk to somebody in the restaurant?
+Assistant: Certainly. I'll connect you with the host right away. Please hold."
+69c894c03561ccb2163ced11,TF Oakwood,2026-03-28T22:56:02.685-04:00,00:15,UserHangup,TRUE,Questions About Restaurant Hours and Wait Times,,,0,CALLER-1DA15F21,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: ¿A qué hora cierran?
+Assistant: Dále— Hoy es sábado, estamos abiertos hasta la medianoche."
+69ae17434bcab3cfc64925ce,TF Oakwood,2026-03-08T20:41:41.544-04:00,00:33,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-823F6201,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Para hacer un pedido.
+Assistant: Para hacer un pedido, puedes hablar con un miembro de nuestro equipo o recibir el enlace para hacer tu pedido en línea. ¿Te gustaría hablar con alguien o recibir el enlace?
+Customer: Alar con alguien.
+Assistant: Entiendo que deseas hablar con alguien para hacer tu pedido."
+69af076127f81830215a7602,RT Buckhead,2026-03-09T13:46:12.172-04:00,00:13,UserHangup,TRUE,,,,0,CALLER-179BECB9,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Assistant: Sorry, are you ..."
+69a72ab5408ccb4b79f03ef2,TF Oakwood,2026-03-03T13:38:47.944-05:00,00:37,AgentHangup,TRUE,Unclassified,,,0,CALLER-2FA91DCD,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Sí. Buenas tardes.
+Assistant: Buenas tardes. En qué puedo ayudarte hoy en Todo Frito Oakwood?
+Customer: Este, fíjese que llame a un número pero estaba viendo que es otra de de otro todo frito.
+Assistant: No te preocupes, pasa a ...
+Customer: Me equivoqué. Es que lo busqué.
+Assistant: No hay ...
+Customer: Es que lo busqué en Google.
+Assistant: Entiendo. Google a veces puede mostrar información de diferentes ubicaciones. ¿Necesitas ayuda con algo ..."
+69c857893561ccb2163a51f0,RT Buckhead,2026-03-28T18:34:51.973-04:00,01:00,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-3155B916,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Order for pickup.
+Assistant: Awesome. I can text you our online ordering link so you can place your pickup order.
+Customer: Can I just place it with you?
+Assistant: Taking orders directly through the phone is not allowed, only through third party platforms. Would you like me to send you the link to place your order?
+Customer: Hello?
+Assistant: I'm listening
+Assistant: Sorry, are you still on the line?
+Customer: Yes. Representative.
+Assistant: Do you want to speak with a representative?
+Customer: Yes."
+69c068d39ca9287a6741b998,RT Buckhead,2026-03-22T18:10:29.515-04:00,00:35,UserHangup,TRUE,Questions About Restaurant Hours and Wait Times,6,,0,CALLER-1902EE5D,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Hi. Yes. I'm calling I was wondering if there's a long wait right now if we came by to get some dinner. We're a party of six.
+Assistant: Let me check that for you. The current wait time is thirty minutes.
+Customer: Okay. Thank you.
+Assistant: You're welcome. Is there anything else I can help you with?
+Customer: No. Thank you. Bye bye."
+69b98e6549be61fe9633f84f,RT Buckhead,2026-03-17T13:24:55.894-04:00,00:17,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-72B2AFAB,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Puedo hablar con un agente en vivo.
+Assistant: ¡Claro que sí. ¿Te transfiero con el host?"
+69a4e9117dd91d91318c34e2,RT Buckhead,2026-03-01T20:34:11.940-05:00,00:16,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-6BA11658,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Please Representative.
+Assistant: Okay, I can connect you with a representative. Would you like me to do that?"
+69bc935561b76e251d104a83,RT Buckhead,2026-03-19T20:22:47.329-04:00,00:48,UserHangup,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-8BD6641F,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: En la, ay, dos en, digamos, dos tortas.
+Assistant: ¡Claro que sí. ¿Qué tipo de proteína te gustaría agregar a tus tortas?
+Customer: ¿Qué tienes de qué tienes? ¿Qué tipo de proteínas tienes?
+Assistant: ¡Tenemos muchas opciones deliciosas. Tenemos asada, pollo a la parrilla, al pastor, barbacoa de res y carnitas de cerdo.
+Customer: Ok, gracias.
+Assistant: ¡De nada. ¿Hay algo más en lo que te pueda ayudar?"
+69b2f92786bb8ca124e110c6,RT Buckhead,2026-03-12T13:34:33.764-04:00,00:37,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-A5A90E05,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Yes. We just placed an order with you guys through Uber Eats, and the majority of the order is missing. I'm not sure if maybe the driver left it there on the counter or what happened.
+Assistant: I'm sorry to hear that you're missing part of your order. I can transfer you to our host so they can assist you further. Would you like me to do that?
+Customer: Yes.
+Assistant: Great, connecting you now."
+69aca83fde899186889e087d,RT Buckhead,2026-03-07T17:35:46.108-05:00,00:33,CallTransfer,TRUE,Making a Reservation or Inquiring About Reservations,,,0,CALLER-466756E5,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Hi. I need to I need to change the reservation.
+Assistant: No problem. If the reservation was made through OpenTable, it can usually be modified or canceled there. Does this information resolve your issue, or would you like help from a live agent?
+Customer: Help from a live agent.
+Assistant: Great, connecting you now.
+Customer: Thank you."
+69c328b10887978cf591fce3,RT Buckhead,2026-03-24T20:13:39.359-04:00,00:24,UserHangup,TRUE,Questions About Restaurant Hours and Wait Times,,,0,CALLER-C004B0D2,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Hi. How are you doing? Can you tell me what's your estimated wait time?
+Assistant: I'm doing great, thanks for asking. Let me check the wait time for you. It's currently about thirty minutes.
+Customer: Thank you.
+Assistant: You're welcome. ..."
+69acc510264d99a30213850b,TF Oakwood,2026-03-07T19:38:42.932-05:00,00:25,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-5D48B7A5,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Buenas noches para pickup.
+Assistant: ¿Te gustaría hablar con un miembro del equipo o enviarte el enlace para hacer tu pedido de pickup en línea?
+Customer: No. Un miembro del equipo. Gracias.
+Assistant: La llamada será transferida a un miembro de nuestro equipo en breve.
+Customer: Dust."
+69b82ade039d9372eec96c19,TF Oakwood,2026-03-16T12:08:00.783-04:00,00:29,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-5C210FF6,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Hacer una orden.
+Assistant: ¿Quieres hacer un pedido para recoger o para entrega a domicilio? También puedo ayudarte con información del menú si prefieres.
+Customer: No. Hablar con un representante.
+Assistant: Entiendo. Te transferiré con un miembro de nuestro equipo para que te ayuden con tu pedido. Un momento, por favor.
+Customer: Gracias."
+69bb077929bbce74c092ea7b,TF Oakwood,2026-03-18T16:13:47.580-04:00,00:48,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-00C9034C,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Julie, buenas tardes. Te pregunto, ¿qué tienen ustedes como pasapalos?
+Assistant: Buenas tardes. Me llamo Yuli, no Julie, pero no hay problema. Nuestros pasapalos incluyen empanadas, pastelitos y tequeños, todos deliciosos. ¿Te gustaría saber más sobre nuestros platos o hacer un pedido?
+Customer: Hacer un pedido.
+Assistant: Puedo ayudarte a hacer tu pedido de manera fácil. ¿Te gustaría hablar con alguien de nuestro equipo para completar tu pedido o prefieres que te envíe el enlace para hacerlo en línea?
+Customer: Hablar con alguien, for favor.
+Assistant: Entiendo.
+Assistant: Un momento, por favor, te voy a transferir con alguien de nuestro equipo para que puedan ayudarte con tu pedido...."
+69b719bf039d9372ee87e495,TF Oakwood,2026-03-15T16:42:41.603-04:00,00:28,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-8B3CBE0C,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Es automatizado, ¿eh, un pedido?
+Assistant: Parece que estás buscando hacer un pedido. ¿Te gustaría hablar con un miembro del equipo o enviarte el enlace para hacer tu pedido en línea?
+Customer: Un miembro del equipo.
+Assistant: Entiendo. Un momento, por favor. Tu llamada será transferida a un miembro de nuestro equipo en breve."
+69a9aee15e60912f541a442e,TF Oakwood,2026-03-05T11:27:15.873-05:00,00:28,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-A8766FA1,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Necesito hacer una orden.
+Assistant: Puedo ayudarte con información sobre nuestro menú. ¿Te gustaría hablar con alguien de nuestro equipo para hacer tu pedido o prefieres usar nuestra plataforma en línea?
+Customer: Hablar con alguien, porfa.
+Assistant: Entiendo. Te voy a transferir con alguien de nuestro equipo para que puedas hacer tu pedido. ¡Disfruta tu comida."
+69cc689d11965ea81e7f73a5,TF Oakwood,2026-03-31T20:36:48.274-04:00,00:16,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-EEBA110B,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Hablar con un agente.
+Assistant: Claro, con gusto te comunico con un representante en un momento."
+69c8300bac305b84d45d54a0,TF Oakwood,2026-03-28T15:46:21.331-04:00,00:21,CallTransfer,TRUE,Assistance with Online Platforms and Technical Issues,,,0,CALLER-2447FD17,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Me cobraron varias veces una compra que dice en todo frito.
+Assistant: Lo siento mucho por la inconveniencia. ¿Te gustaría hablar con un representante para resolver este asunto?"
+69b0b47a07175cba3cac462a,TF Oakwood,2026-03-10T20:17:00.892-04:00,00:25,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-EDE7BE9B,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Para sauces un pedido.
+Assistant: Para hacer un pedido, ¿te gustaría hablar con un miembro del equipo o enviarte el enlace para hacer tu pedido en línea?
+Customer: Hablar.
+Assistant: En un momento te transferiré con un miembro de nuestro equipo para que puedas completar tu pedido."
+69b03e90c0a7ca97bc0e1cc7,RT Buckhead,2026-03-10T11:53:55.223-04:00,00:20,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-F9F599FC,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Speak to the host.
+Assistant: Sure thing. I'll transfer you to the host right away."
+69b1b745936cfd539748db9f,TF Oakwood,2026-03-11T14:41:11.912-04:00,00:03,UserHangup,TRUE,,,,0,CALLER-DD371B39,"Assistant: Hola, gracias por llamar a Todo ..."
+69bf491165aebbe9292950f6,TF Oakwood,2026-03-21T21:42:43.682-04:00,00:35,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,2,delivery,1,CALLER-FE05E5E4,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Hola, Julie. ¿Tienes hamburguesa?
+Assistant: ¿Quieres información sobre las hamburguesas o te gustaría hacer un pedido?
+Customer: Sí. Voy a hacer un pedido de dos hamburguesas.
+Assistant: Para hacer un pedido, ¿prefieres hablar con un miembro del equipo o que te envíe el enlace para hacer tu pedido en línea?
+Customer: Como quiera.
+Assistant: Te envío el enlace para hacer ...
+Customer: Ok. Envíame el enlace."
+69c855ee9d214fefe332acdc,RT Buckhead,2026-03-28T18:28:01.162-04:00,01:19,UserHangup,TRUE,Making a Reservation or Inquiring About Reservations,2,,0,CALLER-16EB541F,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: I'd like to get a reservation.
+Assistant: Okay. For how many people is the reservation?
+Customer: It's the two.
+Assistant: What date and time works best?
+Customer: Today, like, do you have something to open?
+Assistant: We are open. Could you give me a specific hour that works for you?
+Customer: Seven o'clock.
+Assistant: Under what name should I put the reservation?
+Customer: Alex Martinez. Yeah.
+Assistant: Two guests for today, March twenty eighth at seven P.M. under the name Alex Martinez, does that look correct?
+Customer: Yes.
+Assistant: I’m sorry—I couldn’t secure a table at that exact time. I’ve just sent you our OpenTable link so you can check real-time openings and pick the slot that suits you best. Is there anything else I can help you with?.
+Customer: Good to go. Thank you.
+Assistant: Perfect—thanks for calling Real Tacos. ...
+Customer: No. That's it.
+Assistant: Perfect—thanks for calling Real Tacos. Enjoy your day."
+69bc9c0317173b5a898af212,TF Oakwood,2026-03-19T20:59:50.145-04:00,00:33,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-5EA0D6EB,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Hola. Quiero hacer un pedido.
+Assistant: ¿Te gustaría hablar con un miembro del equipo o enviarte el enlace para hacer tu pedido en línea?
+Customer: Me gustaría hablar hablar con gente del equipo.
+Assistant: En un momento te transferiré con un miembro de nuestro equipo para que puedas hacer tu pedido."
+69cc4594576487e62f67b877,RT Buckhead,2026-03-31T18:07:18.888-04:00,00:16,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-3B74FEA2,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Speak to a host.
+Assistant: Okay, connecting you now."
+69b9d53449be61fe9635b164,RT Buckhead,2026-03-17T18:27:02.790-04:00,00:23,UserHangup,TRUE,Questions About Restaurant Hours and Wait Times,,,0,CALLER-745D1902,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Hi. Good afternoon. Do you guys have open seating?
+Assistant: Let me check that for you. The current wait time is about thirty minutes.
+Customer: Ok, thank you.
+Assistant: Perfect—thanks for calling Real Tacos. Enjoy ..."
+69bc293561b76e251d0cd5ab,RT Buckhead,2026-03-19T12:49:59.369-04:00,00:17,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-497E6EC3,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Hi. Can I talk to a host, please?"
+69aca94a638d0bab9b8a67a1,RT Buckhead,2026-03-07T17:40:12.294-05:00,00:16,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-42C32047,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Representative.
+Assistant: Do you want to speak with a ...
+Customer: Hello? Is this a real person?"
+69b6cab0039d9372ee8509c1,RT Buckhead,2026-03-15T11:05:22.837-04:00,01:38,UserHangup,TRUE,Making a Reservation or Inquiring About Reservations,9,,0,CALLER-2EFA69AD,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Hello?
+Assistant: How can I help you today?
+Customer: Wednesday for nine people at seven forty five.
+Assistant: Okay, for how many people is the reservation?
+Customer: Nine people.
+Assistant: Got it. Parties of five or more are coordinated by a manager. In case Buckhead cannot handle your party, are you willing to be relocated to one of our nearby locations, Chamblee and Sandy Springs, that are within ten minutes?
+Customer: No.
+Assistant: What date and time works best?
+Customer: March eighteenth. At seven forty five.
+Assistant: Under what name should I put the reservation?
+Customer: Brittney Morris.
+Assistant: Nine people on March eighteenth at seven forty-five P.M. under the name Brittney Morris. Does that look correct?
+Customer: Yes.
+Assistant: Please wait while I submit your large party reservation request to our manager. I just sent your information to our managers, please check your messages you should receive an SMS with the details of your reservation, they will be reaching out soon!
+Customer: Yes.
+Assistant: Perfect—thanks for calling Real Tacos. Enjoy your day.
+Customer: Thank you.
+Assistant: Perfect—thanks ..."
+69b742f56551713542d637d9,TF Oakwood,2026-03-15T19:38:31.756-04:00,00:50,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-546AD466,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Hola, buenas noches.
+Assistant: Buenas noches. ¿En qué puedo ayudarte hoy en Todo Frito Oakwood?
+Customer: Cake. Quería hacer un pedido de un pata con con pollo.
+Assistant: Parece que estás buscando información sobre nuestro menú. ¿Estás buscando ...
+Customer: Ah, okay.
+Assistant: ¿Quieres saber si tenemos pata con pollo"" en el menú o deseas hacer un pedido?
+Customer: Usted va a hacer un pedido.
+Assistant: Lo siento, no puedo tomar pedidos directamente. ¿Te gustaría hablar con alguien de nuestro equipo para hacer tu pedido o prefieres recibir un ...
+Customer: Sí, por favor.
+Assistant: ¿Te gustaría hablar con un miembro de nuestro equipo o recibir el enlace para hacer tu pedido en línea?"
+69ab82bd264d99a302db6903,RT Buckhead,2026-03-06T20:43:27.284-05:00,00:31,UserHangup,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-942CCFC2,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Hi. Can I place an order for pickup?
+Assistant: Awesome. I can text you our online ordering link so you can place your pickup order.
+Customer: Ok.
+Assistant: Great. I’ve just sent you the pickup link. Is there anything else I can help you with?
+Customer: No. Thanks."
+69c6c7c393749704bac1db14,RT Buckhead,2026-03-27T14:09:09.357-04:00,00:18,UserHangup,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-B6F093EF,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Order.
+Assistant: Awesome. I can text you our online ordering link so you can place your pickup order. Would you like me to send it?"
+69ac9bc44bcab3cfc616b1dc,TF Oakwood,2026-03-07T16:42:30.419-05:00,00:19,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-AA7AD7B2,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Hablar con representante three.
+Assistant: Claro, te transferiré con un miembro de nuestro equipo en un momento."
+69acfd73de89918688a35147,TF Oakwood,2026-03-07T23:39:18.183-05:00,00:18,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-6CBF18CE,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Hablar con una persona.
+Assistant: Claro, te transferiré con un miembro de nuestro equipo en un momento."
+69bdc7440ec93f2c962ea74b,RT Buckhead,2026-03-20T18:16:38.649-04:00,00:22,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-C21048D1,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Talk to
+Assistant: Do you want to speak with a representative?...
+Customer: Speak to a hostess. Yes.
+Customer: Yes."
+69c084e6c982fb21f2c119a7,RT Buckhead,2026-03-22T20:10:16.211-04:00,02:05,UserHangup,TRUE,Making a Reservation or Inquiring About Reservations,7,,0,CALLER-D831F82E,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Reservation.
+Customer: Yeah. It does look good. If y'all wanna eat here, we can't eat here.
+Assistant: Okay, for how many people is the reservation?
+Customer: to my sponsor.
+Assistant: I am sorry, I didn't get that. How many people?
+Customer: Seven
+Assistant: Got it. Parties of five or more are coordinated by a manager. In case Buckhead cannot handle your party, are you willing to be relocated to one of our nearby locations, Chamblee and Sandy Springs, that are within ten minutes?
+Customer: No.
+Assistant: Okay. What date and time works best?
+Customer: Now.
+Assistant: Could you give me a specific hour that works for you?
+Customer: Eight fifteen.
+Assistant: Under what name should I put the reservation?
+Customer: Gabby.
+Assistant: Seven people for today, March twenty second at eight fifteen P.M. under the name Gabby. Does that look correct?
+Customer: Yes.
+Assistant: Please wait while I submit your large party reservation request to our manager. I just sent your information to our managers, please check your messages you should receive an SMS with the details of your reservation, they will be reaching out soon!
+Customer: Thank you.
+Assistant: Perfect—thanks for calling Real Tacos. ...
+Customer: No one's open?
+Assistant: We are open. What can I help you with?
+Assistant: Sorry, are you still on the line?
+Customer: Yes. Pressure. So you upload that nine? Yeah.
+Assistant: I ...
+Customer: That's right. Do you like that. No. I thought I thought getting you can Oh, yeah.
+Assistant: I am ..."
+69bf5c5a9ca9287a67365678,TF Oakwood,2026-03-21T23:05:00.629-04:00,00:38,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-2165AE86,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Good order.
+Assistant: To make an order, would you like to speak with a team member or would you prefer to place your order online?
+Customer: Yeah. I ran from a team number"
+69aed9af27f8183021577d7b,TF Oakwood,2026-03-09T10:31:13.577-04:00,00:27,UserHangup,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-822C136D,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Hola. Um, it's una orden in DoorDash y no tienen empanadas?
+Assistant: Lo siento, no puedo ayudarte con tu orden de DoorDash directamente. Puedes intentar contactar a Todo Frito Oakwood para hacer un pedido para entrega o retiro, o visitar nuestro sitio web para más información. ¿Te gustaría que te envíe el enlace para hacer un ..."
+69a4b7b9eea967c2793ca607,TF Oakwood,2026-03-01T17:03:39.854-05:00,00:31,AgentHangup,TRUE,Questions About Restaurant Hours and Wait Times,3,,0,CALLER-A139169F,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Hello?
+Assistant: Hello. Welcome to Todo Frito Oakwood. How can I assist you today?
+Customer: Hey. Um, I have a client who's interested in coming in now and asking me to check your seating time. I'm an automated service provided by Google, and this call is monitored and recorded to improve Google services. Could you tell me how long the current wait is for a walk in party of three to be seated?
+Assistant: The wait time for a table of three is currently zero minutes. There's no wait, and you're welcome to come in. Would you like me to guide you on ..."
+69bacc18039d9372ee58cf57,TF Oakwood,2026-03-18T12:00:26.788-04:00,00:30,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",4,,0,CALLER-585434C4,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Buenas?
+Assistant: Buenas. ¿En qué puedo ayudarte hoy en Todo Frito Oakwood?
+Customer: Hablar con alguien del equipo.
+Assistant: ¿Te gustaría hablar con un representante de nuestro equipo? Enseguida te transfiero con alguien que ...
+Customer: Paper for four."
+69c9afdb74c7fcb2a911b25f,TF Oakwood,2026-03-29T19:03:57.715-04:00,00:17,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-6CBF18CE,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Hablar con un representante.
+Assistant: Claro— En un momento te transferiré con un miembro de nuestro equipo."
+69a744cd56036b341cb29399,RT Buckhead,2026-03-03T15:30:07.906-05:00,00:18,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-03D2E8BD,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Can I speak to a server, the host?
+Assistant: Yes, I can transfer you. Would you like me to connect you to the host?"
+69adbb44638d0bab9bb74b7b,TF Oakwood,2026-03-08T14:09:11.145-04:00,00:33,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-4E0D9128,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Okay. Pedir una.
+Assistant: Parece que ...
+Customer: Tengo que pedir una. Tengo que pedir una.
+Assistant: ¿Quieres hacer un pedido? Puedo ayudarte a encontrar la información que necesitas o puedes hablar con un miembro del equipo para hacer tu pedido. ¿Te gustaría hablar con alguien o prefieres que te envíe el enlace para hacer tu pedido en línea?
+Customer: Miembro del equipo.
+Assistant: Entiendo. Te voy a transferir con un miembro de nuestro equipo para que puedas hacer tu pedido. Un momento, por favor."
+69b741a310d10be09b8e577e,TF Oakwood,2026-03-15T19:32:53.468-04:00,00:38,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-3F41D0CE,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Quiero hacer una orden para chicken.
+Assistant: ¿Te gustaría hablar con un miembro del equipo para hacer tu pedido o te envío el enlace para hacer tu orden en línea?
+Customer: Get a regular onion.
+Assistant: ¿Te gustaría hablar con un miembro del equipo para hacer tu pedido o te envío el enlace para hacer tu orden en línea para recoger?
+Customer: Mixed gustaría hablar con alguien del equipo.
+Assistant: Entiendo. Tu llamada será transferida a un miembro del equipo en breve."
+69bb43ae29bbce74c0943574,RT Buckhead,2026-03-18T20:30:40.937-04:00,01:12,CallTransfer,TRUE,Making a Reservation or Inquiring About Reservations,10,,0,CALLER-0568F68D,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: I'd like to make a reservation for ten people at nine forty five PM tonight.
+Assistant: Okay. And under what name should I put the reservation?
+Customer: Jayla.
+Assistant: Got it. Parties of five or more are coordinated by a manager. In case Buckhead cannot handle your party, are you willing to be relocated to one of our nearby locations, Chamblee and Sandy Springs, that are within ten minutes?
+Customer: No.
+Assistant: Okay. So, to confirm, that's for ten people under the name Jayla at nine forty-five P.M. tonight. Does that look correct?
+Customer: Yes.
+Assistant: Please hold the line briefly.
+Assistant: Sorry, are you still on the line?
+Customer: Yes.
+Assistant: Would you like to speak with the host?
+Customer: Yes.
+Assistant: Great, connecting you now."
+69c13358282265f33cf096d1,TF Oakwood,2026-03-23T08:34:34.647-04:00,00:16,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-1A6F1FF4,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Quiero hablar como representante.
+Assistant: Claro, te transferiré con un miembro de nuestro equipo en un momento."
+69c9959f74c7fcb2a9111da0,RT Buckhead,2026-03-29T17:12:01.289-04:00,00:31,CallTransfer,TRUE,Lost Items Inquiries,,,0,CALLER-BDD6AF95,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: I'm trying to see if I left some glasses in there the other night.
+Assistant: I understand you're looking for some glasses you might have left behind. Let me get you over to our host, who can check our lost and found. Would that be okay?
+Customer: Yes.
+Assistant: Great, connecting you now."
+69b6e7166551713542d3af9b,TF Oakwood,2026-03-15T13:06:32.893-04:00,00:17,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-97EBC7EE,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: ¿Me puede transferir con una persona?
+Assistant: Claro, te transferiré con un miembro de nuestro equipo en un momento."
+69cc1149576487e62f64e365,RT Buckhead,2026-03-31T14:24:12.518-04:00,00:25,UserInactivity,TRUE,,,,0,CALLER-04D220F9,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Assistant: Sorry, are you still on the line?"
+69b5fb0c10d10be09b7f46f1,RT Buckhead,2026-03-14T20:19:27.027-04:00,00:40,UserHangup,TRUE,Questions About Restaurant Hours and Wait Times,4,,0,CALLER-E119735E,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: How long is the wait for a table of four?
+Assistant: Let me check that for you... The current wait time is about thirty minutes.
+Customer: Can I be added to the list?
+Assistant: I’m sorry, but I can’t add you to a waitlist before you arrive. Once you’re here, our host will add you to the in-person waitlist.
+Customer: Ok, thank you, Nacho. Have a good day.
+Assistant: Perfect—thanks for calling Real Tacos. Enjoy your day."
+69bc799a61b76e251d0f7d04,TF Oakwood,2026-03-19T18:33:00.707-04:00,00:46,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-B0E7E111,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Quería hacer una orden de un sombrero.
+Assistant: Lo siento, parece que hubo un malentendido. Todo Frito Oakwood es un restaurante y no vendemos sombreros. ¿Te gustaría información sobre nuestro menú o hacer un pedido de comida?
+Customer: Hacer un pedido de comida.
+Assistant: Puedo ayudarte con información sobre nuestro menú, pero para hacer un pedido, te recomiendo hablar con uno de nuestros representantes o hacer tu pedido en línea. ¿Te gustaría hablar con un representante o que te envíe el enlace para hacer tu pedido en línea?
+Customer: Hablar con un representante.
+Assistant: Entiendo. Un momento, por favor, te transferiré con un miembro de nuestro equipo para que puedas hacer tu pedido."
+69be012100b4b91c62074311,RT Buckhead,2026-03-20T22:23:32.251-04:00,01:55,UserHangup,TRUE,Making a Reservation or Inquiring About Reservations,9,,0,CALLER-5B4E228C,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Hi. I was wondering if I can make a reservation.
+Customer: For right now.
+Assistant: Claro que sí. How many ...
+Customer: It it'll be for not
+Assistant: How many ...
+Customer: ¿Para para nueve, por dos?
+Assistant: Okay, and under what name should I put the reservation?
+Customer: Andrea.
+Assistant: Okay, so that's a reservation for two people under the name Andrea.
+Customer: No. That's it.
+Customer: No. No. Not to nine.
+Assistant: Which detail is incorrect?
+Customer: The people.
+Assistant: Okay, how many guests will be in your party?
+Customer: Nine.
+Assistant: Since your party is more than four people, please note that these reservations are coordinated by a manager. In case Buckhead cannot handle your party, are you willing to be relocated to one of our nearby locations, Chamblee and Sandy Springs, that are within ten minutes?
+Customer: Yes.
+Assistant: And under what name should I put the reservation?
+Customer: Andrea.
+Assistant: Okay, so that's a reservation for nine people under the name Andrea. Does that look correct?
+Customer: Yes.
+Assistant: Please wait while I submit your large party reservation request to our manager. I just sent your information to our managers, please check your messages you should receive an SMS with the details of your reservation, they will be reaching out soon!
+Customer: Thank you.
+Assistant: Perfecto, gracias por llamar a Real Tacos. Que tengas un buen dia"
+69bb203f99ee24c4a1090c91,RT Buckhead,2026-03-18T17:59:29.858-04:00,00:27,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-EA507C49,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Customer service.
+Assistant: I understand you're looking for assistance. I can transfer you to the host right away. Would you like that?
+Customer: Yes.
+Assistant: Great, connecting you now."
+69c69de83b03748519abf121,RT Buckhead,2026-03-27T11:10:34.675-04:00,01:50,UserHangup,TRUE,Making a Reservation or Inquiring About Reservations,12,,0,CALLER-9AC53D12,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Hey. Wanted to make a reservation.
+Assistant: ¡Qué bueno. How many guests will be in your party?
+Customer: Up to ten and twelve.
+Assistant: Got it. Parties of five or more are coordinated by a manager. In case Buckhead cannot handle your party, are you willing to be relocated to one of our nearby locations them being Chamblee"" and ""Sandy Springs"" that are within ten minutes?
+Customer: That's fine.
+Assistant: Great. Would you like to exclude any of the given ...
+Customer: Well, actually, you guys just let me know.
+Assistant: Okay. What date and time works best?
+Customer: Eight eight eight thirty.
+Assistant: Under what name should I put the reservation?
+Customer: Kevin.
+Assistant: Ten to twelve guests, today at eight thirty P.M., under the name Kevin. Does that look correct?
+Customer: Tomorrow. No.
+Assistant: Which detail is incorrect?
+Customer: The date.
+Assistant: Okay. What date works best?
+Customer: Tomorrow. The twenty eighth.
+Assistant: Ten to twelve guests, tomorrow, March twenty eighth at eight thirty P.M., under the name Kevin. Does that look correct?
+Customer: Yes, sir.
+Assistant: Please wait while I submit your large party reservation request to our manager. I just sent your information to our managers, please check your messages you should receive an SMS with the details of your reservation, they will be reaching out soon!
+Customer: Thank you.
+Assistant: Perfect—thanks for calling Real Tacos. Enjoy your day."
+69b5bdfd039d9372ee768a15,RT Buckhead,2026-03-14T15:58:55.704-04:00,00:24,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-A14FB7B4,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Speak to staff.
+Assistant: Did you mean you'd like to speak to a live person?
+Customer: Yes.
+Assistant: One moment while I find someone to assist you."
+69a72cce408ccb4b79f04b3a,TF Oakwood,2026-03-03T13:47:44.961-05:00,00:18,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-2FA91DCD,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Hablar con una persona.
+Assistant: ¿Te gustaría hablar con un representante de Todo Frito Oakwood?
+Customer: Sí."
+69b5a0156551713542bf7351,RT Buckhead,2026-03-14T13:51:19.942-04:00,00:50,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-B620614C,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: I wanted to place a pickup order.
+Assistant: Awesome. I can text you our online ordering link so you can place your pickup order.
+Customer: Okay. I can't do it over to whom?
+Assistant: I am unable to take orders over the phone, but I can send you the link to our online ordering system. Would you like me to send you the link?
+Customer: I would like to speak with somebody.
+Assistant: Okay, would you like to speak with a representative?
+Customer: Yes. Yes."
+69a9de4beabe9865068735ca,TF Oakwood,2026-03-05T14:49:33.939-05:00,00:17,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-CE94FBC2,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Hablar con la gente.
+Assistant: ¿Te gustaría hablar con un representante de Todo Frito Oakwood?
+Customer: Sí."
+69b060710c86f44f25b67791,RT Buckhead,2026-03-10T14:18:27.391-04:00,00:16,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-C2194AED,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: I need to speak to the manager, please.
+Assistant: Got it. I can connect you to the ...
+Customer: Transfer me to a manager."
+69b9bfbb039d9372ee0efcd0,RT Buckhead,2026-03-17T16:55:25.763-04:00,00:32,CallTransfer,TRUE,Menu Inquiries and Special Dietary Needs,,menu,1,CALLER-54212F18,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Hi. Do you have a specials for taco Tuesday?
+Assistant: I don't have any information about Taco Tuesday specials, but I can share our menu with you. Would you like me to send you a link?
+Customer: Yeah. We're good. Yeah.
+Customer: Can you put me to a human?
+Customer: Oh my god."
+69b4ab6f6896046c69c62def,RT Buckhead,2026-03-13T20:27:29.617-04:00,00:27,UserHangup,TRUE,Questions About Restaurant Hours and Wait Times,,,0,CALLER-7679590F,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Recipe there.
+Customer: How long is the wait?
+Assistant: I am unable to provide the recipe, but I can tell you the current wait time. Let me check that for you, it is currently sixty minutes.
+Customer: The current wait time is sixty minutes. Sixty? Yeah.
+Assistant: That's right. Is ..."
+69ab38a2264d99a302d925fa,RT Buckhead,2026-03-06T15:27:16.459-05:00,00:37,UserHangup,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-18D1DD63,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Hi. Can I place a to go order?
+Assistant: Awesome. I can text you our online ordering link so you can place your pickup order. Would you like me to send it?
+Customer: No.
+Assistant: Okay. Is there anything else I can help you with?
+Customer: Yeah. I just wanna place it to go order.
+Assistant: Gotcha. I can text you our online ordering link so you can place your pickup order. Would you like me to send it?"
+69b3537add23d1fbfebca354,TF Oakwood,2026-03-12T19:59:56.484-04:00,00:35,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-8180B9FD,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Hola, Julie. Necesito un sticks, un combo de veinte cinco unidades entre pequeño, empanado y pastelito.
+Assistant: Lo siento, pero no puedo tomar pedidos directamente. ¿Te gustaría hablar con un miembro del equipo para hacer tu pedido o que te envíe el enlace para hacer tu pedido en línea?
+Customer: No.
+Assistant: Puedo ...
+Customer: Si me pueden comunicar con uno, por favor.
+Assistant: ¿Te gustaría hablar con un miembro del equipo para hacer tu pedido? Si es así, te transferiré la llamada en un momento."
+69a7744a5e60912f54d276fc,TF Oakwood,2026-03-03T18:52:44.522-05:00,00:43,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-EFF3D617,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Para hacer una hora.
+Assistant: Lo siento, Todo Frito Oakwood no acepta reservas anticipadas. Te invito a venir y te atenderemos encantados. ¿Quieres saber nuestros horarios de hoy?
+Customer: I'll go with it mini there.
+Assistant: ¿Te gustaría ordenar a través de nuestra plataforma en línea o hablar con un miembro de nuestro equipo para ayudarte con tu pedido de Mini Empanadas?
+Customer: Habla con un miembro.
+Assistant: Enseguida te transfiero con alguien que te ayudará con tu pedido. ¡Gracias por elegir Todo Frito Oakwood."
+69c716533561ccb21602358b,TF Oakwood,2026-03-27T19:44:21.458-04:00,00:20,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-4BF4885A,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Hablar con un representante, pero no me he podido comunicar a ninguna sucursal.
+Assistant: Dále— ¿Podrías decirme un poco más sobre tu solicitud para que pueda asistirte mejor?"
+69bf31bad04f7f4078c866a5,RT Buckhead,2026-03-21T20:03:08.320-04:00,00:40,UserHangup,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-19D4FCB7,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Hi. Can I place an order to pick up?
+Assistant: Awesome. I can text you our online ordering link so you can place your pickup order.
+Customer: No. Can I just do it over the phone?
+Assistant: I am unable to take orders over the phone, but I can text you our online ordering link so you can place your pickup order.
+Customer: Okay. Are you a real person or AI?
+Assistant: I am a virtual assistant. How can I help?
+Customer: I knew it."
+69cb1f0c36dfa226c43f9b13,RT Buckhead,2026-03-30T21:10:38.280-04:00,01:40,UserHangup,TRUE,Making a Reservation or Inquiring About Reservations,3,,0,CALLER-94D15C0D,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Reservation, please.
+Assistant: ¡Genial. ¿Para cuántas personas es la reservación?
+Customer: Hello?
+Assistant: ¿Para cuántas personas es la reservación?
+Customer: Oh, it'll be it'll be three people for tomorrow, though, at seven thirty.
+Assistant: Okay, ¿bajo qué nombre hago la reservación?
+Customer: I'm sorry. Could you speak English? I don't understand Spanish.
+Assistant: No problem. Under what name should I put the reservation?
+Customer: Hollywood.
+Assistant: Okay, so that's three people for tomorrow at seven thirty PM under the name Hollywood. Does that look correct?
+Customer: Yes. That's correct.
+Assistant: I’m sorry—I couldn’t secure a table at that exact time. I’ve just sent you our OpenTable link so you can check real-time openings and pick the slot that suits you best. Is there anything else I can help you with?.
+Customer: No. That's all.
+Assistant: Perfect—thanks for calling Real Tacos. Enjoy your day.
+Assistant: Sorry, are you still on the line?
+Customer: Yes. I didn't I didn't get the link that you texted."
+69b4310d477db9185ed8b2a9,RT Buckhead,2026-03-13T11:45:19.390-04:00,02:51,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,"menu, pickup",2,CALLER-9ABCFC79,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Hola. ¿Hablan español?
+Assistant: ¡Claro que sí. ¿En qué puedo ayudarte hoy?
+Customer: Sí, quiero unos tacos. Sí, venden tacos. ¿Verdad?
+Assistant: ¡Por supuesto que sí. ¿De qué tipo de tacos se te antojan hoy?
+Customer: De asada y De asada y y asadas cuatro.
+Assistant: ¡Excelente elección.
+Customer: ¿En cuánto tiempo está?
+Assistant: Déjame revisar eso para ti. En este momento, la espera es de cero minutos.
+Customer: Ok.
+Customer: Sí, por eso yo estoy al lado, esta... Ahí donde dice taco real. ¿Verdad?
+Assistant: ¡Así es. ¿Hay algo más en lo que te pueda ayudar?
+Customer: ¿Y de tomar qué tienes? ¿Solo tacos o venta en tortas también?
+Assistant: ¡Tenemos de todo un poco. Además de los tacos, también tenemos tortas. ¿Te gustaría que te envíe el enlace del menú completo por mensaje de texto?
+Customer: ¿Sí me hace el favor?
+Assistant: ¡Claro que sí. Te acabo de enviar el enlace. ¿Hay algo más en lo que te pueda ayudar?
+Customer: Mira, sì.
+Customer: Quería quería ver si si tienes tortas me una torta cubana y y me cancela la de tacos.
+Assistant: ¡Entendido. Solo para confirmar, ¿quieres una torta cubana en lugar de los cuatro tacos de asada?
+Customer: Sí. ¿Me da la torta cubana y dos tacos nomás de esa?
+Assistant: ¡Perfecto. ¿Te gustaría que te envíe el enlace para que puedas ...
+Customer: ¿Será que acordamos así?
+Assistant: ¡Claro que sí. ¿Te gustaría que te envíe ...
+Customer: Tacos, tortas, todo eso de aquí en
+Customer: Y y una torta de asada. ¿Ok?
+Assistant: ¡Perfecto. ¿Te ...
+Customer: ¿Sí me escucha?
+Assistant: ¡Claro que sí. ¿Te gustaría que te envíe el enlace para que puedas realizar tu orden para llevar?
+Customer: ¿Eso se tiene que hacer del teléfono o simplemente ya con lo que te estoy pidiendo la puedes hacer ahí? ¿No?
+Assistant: ¡Buena pregunta. Soy un asistente virtual y no puedo tomar órdenes directamente. Pero puedo enviarte el enlace para que hagas tu pedido en línea. ¿Te gustaría que te lo envíe?
+Customer: Oh, sí.
+Customer: ¿Y no puedo hablar con un con un representante que me me atienda? Porque es que yo no le entiendo mucho a eso. Para que así me tomen la orden de una vez.
+Assistant: Entiendo."
+69ab72df638d0bab9b4ef845,TF Oakwood,2026-03-06T19:35:45.442-05:00,00:18,CallTransfer,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-6E9F5022,"Assistant: Hola, gracias por llamar a Todo Frito Oakwood, habla Yuli. Cómo puedo ayudarte?
+Customer: Hablar con una persona real
+Assistant: Claro, te transferiré con un miembro de nuestro equipo en un momento."
+69c31ea31746af7a2d4f6c21,RT Buckhead,2026-03-24T19:30:46.214-04:00,00:31,CallTransfer,TRUE,Placing an Order for Takeout or Delivery,,,0,CALLER-07766E80,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Wrong to go order.
+Assistant: ¡Qué onda. I can text you our online ordering link so you can place your pickup order. Would you like me to send you the link?
+Customer: No.
+Customer: No. Host station, please.
+Assistant: Claro que sí. I'm transferring you to the host now."
+69beec1000b4b91c62441e88,RT Buckhead,2026-03-21T15:05:54.437-04:00,01:04,UserInactivity,TRUE,"Request to speak to a human, to a person, to customer service, to the host or the hostess",,,0,CALLER-9739F400,"Assistant: Hi, thanks for calling Rreal Tacos Buckhead! I’m Nacho. How may I help you?
+Customer: Aló. Con Susi.
+Assistant: ¿En qué puedo ayudarte, Susi?
+Customer: Aló.
+Assistant: ¿En qué puedo ayudarte?
+Customer: Ah, es que yo quedé de llegar a las tres, pero primera vez que agarro el metro, pues se me ha ido tardío un poco. Y entonces no sé si voy tarde.
+Customer: Y quería hablar con la mánager.
+Assistant: Entiendo. ¿Te transfiero con el host ahora mismo?
+Assistant: Sorry, are you still on the line?"

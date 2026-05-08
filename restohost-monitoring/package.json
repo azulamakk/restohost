@@ -1,0 +1,32 @@
+{
+  "name": "restohost-monitoring",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "pipeline": "tsx src/pipeline/index.ts",
+    "api": "tsx src/api/server.ts",
+    "dashboard": "concurrently \"npm run api\" \"vite\"",
+    "all": "npm run pipeline && npm run dashboard",
+    "test": "vitest run --config vitest.config.ts"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.95.1",
+    "csv-parse": "^6.2.1",
+    "express": "^4.21.2",
+    "react": "^18",
+    "react-dom": "^18",
+    "recharts": "^2.13"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "@types/node": "^22",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "@vitejs/plugin-react": "^4.5.2",
+    "concurrently": "^9.1.2",
+    "tsx": "^4.19.4",
+    "typescript": "^5",
+    "vite": "^6.3.5",
+    "vitest": "^3.2.1"
+  }
+}
