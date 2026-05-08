@@ -3,8 +3,8 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "pipeline": "tsx src/pipeline/index.ts",
-    "api": "tsx src/api/server.ts",
+    "pipeline": "tsx --env-file=.env src/pipeline/index.ts",
+    "api": "tsx --env-file=.env src/api/server.ts",
     "dashboard": "concurrently \"npm run api\" \"vite\"",
     "all": "npm run pipeline && npm run dashboard",
     "test": "vitest run --config vitest.config.ts"

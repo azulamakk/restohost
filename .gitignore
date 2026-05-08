@@ -1,2 +1,41 @@
+# dependencies
+node_modules
+
+# pipeline output (generated — don't commit)
+output/
+
+# build output
+out
+dist
+*.tgz
+
+# code coverage
+coverage
+*.lcov
+
+# logs
+logs
+*.log
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# dotenv environment variable files
+.env
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
+
+# caches
+.eslintcache
+.cache
+*.tsbuildinfo
+
+# IntelliJ based IDEs
+.idea
+
+# Finder (MacOS) folder config
+.DS_Store
+
+# project planning docs (not part of deliverable)
 plan.md
 RestoHost Data & AI Monitoring Evaluation.pdf

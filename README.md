@@ -12,26 +12,21 @@ Monitoring system for RestoHost's AI voice assistant. Analyzes phone calls from 
 
 ```bash
 git clone <repo-url>
-cd restohost-monitoring
+cd <repo-name>
 npm install
+cp .env.example .env
 ```
 
 ## Environment variables
 
-Copy the example file and fill in your API key:
-
-```bash
-cp .env.example .env
-```
-
-Edit `.env`:
+Edit `.env` (already copied in setup above):
 
 ```env
 ANTHROPIC_API_KEY=sk-ant-...   # Your Anthropic API key
 MOCK_LLM=false                  # Set to "true" for demo mode (no cost, no key needed)
 ```
 
-> **Demo mode:** If you don't have an API key or want to test without cost, use `MOCK_LLM=true`. The classifier will fall back to local heuristics. Results are less precise for ambiguous cases, but the full pipeline runs fine.
+> **Demo mode:** If you don't have an API key or want to test without cost, use `MOCK_LLM=true`. The classifier will fall back to local heuristics. Results are less precise for ambiguous cases, but the full pipeline runs fine in ~10 seconds with zero API cost.
 
 ## How to run
 
@@ -41,7 +36,7 @@ MOCK_LLM=false                  # Set to "true" for demo mode (no cost, no key n
 npm run pipeline
 ```
 
-Runs the full analysis and writes JSON files to `/output`. Takes ~1–2 min in LLM mode (300 calls × ~$0.025 total), or ~10 s in mock mode.
+Runs the full analysis and writes JSON files to `output/`. Takes ~1–2 min in LLM mode (~$0.025 total for 300 calls), or ~10 s in mock mode.
 
 ### Step 2 — Start the dashboard
 
@@ -68,7 +63,6 @@ npm test
 ## Repository structure
 
 ```
-restohost-monitoring/
 ├── src/
 │   ├── api/
 │   │   └── server.ts              # Express API — serves pipeline JSON outputs
