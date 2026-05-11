@@ -1,0 +1,205 @@
+{
+  "generatedAt": "2026-05-08T19:06:33.071Z",
+  "forecastWeek": "2026-04-06 to 2026-04-12",
+  "confidenceLevel": "LOW",
+  "caveat": "This forecast is based on a single month of data (March 2026) and should be treated as directional only. One month cannot capture seasonal variation, month-over-month trends, holidays, or special events. The March 17 spike (likely St. Patrick's Day) inflates Tuesday averages. Use this as a rough order-of-magnitude guide, not a reliable prediction.",
+  "dailyForecasts": [
+    {
+      "date": "2026-04-06",
+      "dayOfWeek": "Monday",
+      "predictedVolume": 4,
+      "predictedReasonDistribution": {
+        "Request Human": 27,
+        "Delivery Order": 40,
+        "Reservation": 20,
+        "Other": 7,
+        "Menu / Hours": 7
+      },
+      "historicalAvg": 4.3
+    },
+    {
+      "date": "2026-04-07",
+      "dayOfWeek": "Tuesday",
+      "predictedVolume": 7,
+      "predictedReasonDistribution": {
+        "Other": 17,
+        "Delivery Order": 30,
+        "Reservation": 10,
+        "Request Human": 33,
+        "Menu / Hours": 10
+      },
+      "historicalAvg": 7
+    },
+    {
+      "date": "2026-04-08",
+      "dayOfWeek": "Wednesday",
+      "predictedVolume": 3,
+      "predictedReasonDistribution": {
+        "Other": 22,
+        "Delivery Order": 26,
+        "Request Human": 33,
+        "Reservation": 15,
+        "Menu / Hours": 4
+      },
+      "historicalAvg": 3.4
+    },
+    {
+      "date": "2026-04-09",
+      "dayOfWeek": "Thursday",
+      "predictedVolume": 4,
+      "predictedReasonDistribution": {
+        "Delivery Order": 35,
+        "Request Human": 29,
+        "Other": 15,
+        "Reservation": 18,
+        "Menu / Hours": 3
+      },
+      "historicalAvg": 4.3
+    },
+    {
+      "date": "2026-04-10",
+      "dayOfWeek": "Friday",
+      "predictedVolume": 5,
+      "predictedReasonDistribution": {
+        "Request Human": 27,
+        "Reservation": 15,
+        "Other": 20,
+        "Menu / Hours": 5,
+        "Delivery Order": 32,
+        "Catering / Event": 2
+      },
+      "historicalAvg": 5.1
+    },
+    {
+      "date": "2026-04-11",
+      "dayOfWeek": "Saturday",
+      "predictedVolume": 7,
+      "predictedReasonDistribution": {
+        "Delivery Order": 24,
+        "Menu / Hours": 21,
+        "Catering / Event": 2,
+        "Request Human": 31,
+        "Reservation": 17,
+        "Other": 3,
+        "Complaint / Issue": 2
+      },
+      "historicalAvg": 7.3
+    },
+    {
+      "date": "2026-04-12",
+      "dayOfWeek": "Sunday",
+      "predictedVolume": 5,
+      "predictedReasonDistribution": {
+        "Request Human": 21,
+        "Delivery Order": 28,
+        "Menu / Hours": 19,
+        "Reservation": 21,
+        "Other": 11
+      },
+      "historicalAvg": 4.7
+    }
+  ],
+  "preventiveRecommendations": [
+    "Predicted peak day: Tuesday (~7 calls). Ensure the AI system is healthy before peak hours (19:00–21:00).",
+    "Weekend delivery volume is high at TF Oakwood. Verify the online order link is functional every Friday morning before peak hours begin.",
+    "If the SMS reservation confirmation fix has not been deployed, brief the RT Buckhead team to expect ~3 reservation calls over the weekend where customers may not receive confirmation.",
+    "Schedule any planned system maintenance for Tuesday–Wednesday mornings (09:00–11:00) — historically the lowest call volume window.",
+    "Total predicted call volume for the week: ~35 calls. Confidence: LOW. Do not use for staffing decisions without additional data."
+  ],
+  "byRestaurant": {
+    "TF Oakwood": {
+      "predictedWeeklyTotal": 21,
+      "peakDay": "Tuesday",
+      "topMotives": [
+        {
+          "category": "Delivery Order",
+          "pct": 43
+        },
+        {
+          "category": "Request Human",
+          "pct": 27
+        },
+        {
+          "category": "Other",
+          "pct": 13
+        },
+        {
+          "category": "Menu / Hours",
+          "pct": 9
+        }
+      ],
+      "dailyVolumes": {
+        "Monday": 3,
+        "Tuesday": 4,
+        "Wednesday": 2,
+        "Thursday": 3,
+        "Friday": 3,
+        "Saturday": 3,
+        "Sunday": 3
+      }
+    },
+    "RT Buckhead": {
+      "predictedWeeklyTotal": 22,
+      "peakDay": "Saturday",
+      "topMotives": [
+        {
+          "category": "Request Human",
+          "pct": 31
+        },
+        {
+          "category": "Reservation",
+          "pct": 26
+        },
+        {
+          "category": "Delivery Order",
+          "pct": 17
+        },
+        {
+          "category": "Other",
+          "pct": 13
+        }
+      ],
+      "dailyVolumes": {
+        "Monday": 2,
+        "Tuesday": 4,
+        "Wednesday": 2,
+        "Thursday": 3,
+        "Friday": 3,
+        "Saturday": 5,
+        "Sunday": 3
+      }
+    }
+  },
+  "assistantAdjustments": [
+    {
+      "restaurant": "TF Oakwood",
+      "trigger": "~43% of calls are predicted to be delivery orders",
+      "action": "Run the delivery order flow end-to-end before Monday 18:00: place a test order, confirm the URL is live and returning correctly. The most common failure at TF Oakwood is the assistant promising an order link that 404s — catching this before the peak avoids the BROKEN_PROMISE error.",
+      "priority": "HIGH"
+    },
+    {
+      "restaurant": "TF Oakwood",
+      "trigger": "~27% of TF Oakwood calls are predicted to request a human agent",
+      "action": "Review the Spanish handoff decision logic before the week starts. With 27% escalation predicted, lower the transfer threshold for menu, hours, and basic FAQ questions — these are resolvable autonomously but the assistant currently escalates too early. Add at least 2 new Spanish-language menu FAQ entries to the KB.",
+      "priority": "HIGH"
+    },
+    {
+      "restaurant": "RT Buckhead",
+      "trigger": "~26% reservation rate predicted, with ~11 weekend calls expected",
+      "action": "If the BROKEN_PROMISE fix (SMS confirmation not sent after reservation) has not been deployed, activate the verbal fallback before Friday: configure the assistant to read the reservation details aloud (date, time, party size) at end of call and instruct the caller to take a screenshot. Do not wait for the SMS bug fix to be in production.",
+      "priority": "HIGH"
+    },
+    {
+      "restaurant": "Both",
+      "trigger": "Peak day predicted: Tuesday with ~7 calls",
+      "action": "Run a full assistant smoke-test (delivery → reservation → hours query → human-request escalation) on both restaurant assistants before Tuesday 18:00. Verify STT latency is within acceptable range — speech recognition failures spike during high-volume windows.",
+      "priority": "MEDIUM"
+    },
+    {
+      "restaurant": "TF Oakwood",
+      "trigger": "~9% menu/hours queries predicted at TF Oakwood",
+      "action": "Verify the KB hours and specials entry for TF Oakwood is current before Monday. Menu/hours questions are the easiest for the assistant to resolve autonomously — but stale data turns a zero-transfer call into a frustrated escalation. Update the opening-hours entry and this week's specials.",
+      "priority": "LOW"
+    }
+  ]
+}

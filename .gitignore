@@ -1,9 +1,6 @@
 # dependencies
 node_modules
 
-# pipeline output (generated — don't commit)
-output/
-
 # build output
 out
 dist

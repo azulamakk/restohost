@@ -1,0 +1,331 @@
+{
+  "totalCalls": 300,
+  "byRestaurant": {
+    "TF Oakwood": {
+      "totalCalls": 150,
+      "callEndReasonDist": {
+        "CallTransfer": 107,
+        "UserHangup": 39,
+        "AgentHangup": 4
+      },
+      "reasonForCallingDist": {
+        "Request to speak to a human, to a person, to customer service, to the host or the hostess": 40,
+        "Placing an Order for Takeout or Delivery": 65,
+        "Making a Reservation or Inquiring About Reservations": 9,
+        "(empty)": 7,
+        "Catering request": 1,
+        "General Information and Amenities": 2,
+        "Menu Inquiries and Special Dietary Needs": 9,
+        "Unclassified": 11,
+        "Questions About Restaurant Hours and Wait Times": 5,
+        "Assistance with Online Platforms and Technical Issues": 1
+      },
+      "transferRate": 0.7133333333333334,
+      "smsRate": 0.06,
+      "autonomousResolutionRate": 0.02666666666666667,
+      "avgDurationSeconds": 31.453333333333333,
+      "frustrationRate": 0.68
+    },
+    "RT Buckhead": {
+      "totalCalls": 150,
+      "callEndReasonDist": {
+        "CallTransfer": 71,
+        "UserHangup": 76,
+        "AgentHangup": 1,
+        "UserInactivity": 2
+      },
+      "reasonForCallingDist": {
+        "Lost Items Inquiries": 4,
+        "Questions About Restaurant Hours and Wait Times": 18,
+        "Request to speak to a human, to a person, to customer service, to the host or the hostess": 47,
+        "General Information and Amenities": 3,
+        "Making a Reservation or Inquiring About Reservations": 39,
+        "Placing an Order for Takeout or Delivery": 25,
+        "Employment Opportunities or Business Inquiries": 2,
+        "Catering request": 1,
+        "Unclassified": 5,
+        "(empty)": 5,
+        "Menu Inquiries and Special Dietary Needs": 1
+      },
+      "transferRate": 0.47333333333333333,
+      "smsRate": 0.04666666666666667,
+      "autonomousResolutionRate": 0.03333333333333333,
+      "avgDurationSeconds": 42.02,
+      "frustrationRate": 0.31333333333333335
+    }
+  },
+  "callEndReasonDist": {
+    "CallTransfer": 178,
+    "UserHangup": 115,
+    "AgentHangup": 5,
+    "UserInactivity": 2
+  },
+  "reasonForCallingDist": {
+    "Lost Items Inquiries": 4,
+    "Request to speak to a human, to a person, to customer service, to the host or the hostess": 87,
+    "Placing an Order for Takeout or Delivery": 90,
+    "Questions About Restaurant Hours and Wait Times": 23,
+    "Making a Reservation or Inquiring About Reservations": 48,
+    "General Information and Amenities": 5,
+    "Employment Opportunities or Business Inquiries": 2,
+    "(empty)": 12,
+    "Catering request": 2,
+    "Menu Inquiries and Special Dietary Needs": 10,
+    "Unclassified": 16,
+    "Assistance with Online Platforms and Technical Issues": 1
+  },
+  "durationStats": {
+    "p10": 17,
+    "p25": 20,
+    "p50": 29,
+    "p75": 44,
+    "p90": 73,
+    "p99": 126,
+    "avg": 37,
+    "min": 3,
+    "max": 171,
+    "buckets": {
+      "30–60s": 102,
+      "10–30s": 150,
+      "1–2min": 38,
+      "2–3min": 5,
+      "<10s": 5
+    },
+    "byEndReason": {
+      "AgentHangup": 29,
+      "UserHangup": 44,
+      "CallTransfer": 32,
+      "UserInactivity": 45
+    }
+  },
+  "temporalStats": {
+    "byHour": {
+      "0": 11,
+      "1": 3,
+      "9": 2,
+      "10": 5,
+      "11": 13,
+      "12": 19,
+      "13": 21,
+      "14": 21,
+      "15": 22,
+      "16": 13,
+      "17": 20,
+      "18": 14,
+      "19": 26,
+      "20": 29,
+      "21": 41,
+      "22": 30,
+      "23": 10
+    },
+    "byDayOfWeek": {
+      "0": 47,
+      "1": 30,
+      "2": 63,
+      "3": 27,
+      "4": 34,
+      "5": 41,
+      "6": 58
+    },
+    "byDate": {
+      "2026-03-24": 9,
+      "2026-03-27": 8,
+      "2026-03-22": 12,
+      "2026-03-15": 16,
+      "2026-03-07": 14,
+      "2026-03-12": 9,
+      "2026-03-10": 8,
+      "2026-03-09": 6,
+      "2026-03-20": 6,
+      "2026-03-06": 11,
+      "2026-03-23": 11,
+      "2026-03-28": 14,
+      "2026-03-16": 10,
+      "2026-03-05": 8,
+      "2026-03-26": 12,
+      "2026-03-11": 8,
+      "2026-03-29": 10,
+      "2026-03-14": 14,
+      "2026-03-17": 19,
+      "2026-03-21": 13,
+      "2026-03-30": 6,
+      "2026-03-18": 12,
+      "2026-03-13": 8,
+      "2026-03-31": 8,
+      "2026-03-19": 10,
+      "2026-04-01": 5,
+      "2026-03-04": 4,
+      "2026-03-03": 6,
+      "2026-03-02": 8,
+      "2026-03-01": 4,
+      "2026-03-08": 8,
+      "2026-03-25": 3
+    },
+    "peakHour": 21,
+    "peakDay": 2,
+    "peakDate": "2026-03-17"
+  },
+  "conversationStats": {
+    "avgTurns": 6.663333333333333,
+    "minTurns": 1,
+    "maxTurns": 33,
+    "turnBuckets": {
+      "1–2": 22,
+      "3–4": 93,
+      "5–8": 114,
+      "9+": 71
+    },
+    "avgLengthChars": 465,
+    "medianLengthChars": 376,
+    "maxLengthChars": 2241,
+    "emptyOrTruncated": 1
+  },
+  "smsStats": {
+    "totalWithSms": 16,
+    "smsRate": 0.05333333333333334,
+    "byType": {
+      "delivery": 8,
+      "pickup": 11,
+      "job form": 1,
+      "csf": 1,
+      "menu": 2
+    },
+    "autonomousResolutions": 9,
+    "reservationsWithSms": 0,
+    "reservationSmsRate": 0
+  },
+  "callerStats": {
+    "uniqueCallers": 250,
+    "repeatCallers": 27,
+    "topRepeatCallers": [
+      {
+        "phone": "CALLER-D8C5436F",
+        "count": 14,
+        "reasons": [
+          "Making a Reservation or Inquiring About Reservations"
+        ]
+      },
+      {
+        "phone": "CALLER-416990E6",
+        "count": 4,
+        "reasons": [
+          "Request to speak to a human, to a person, to customer service, to the host or the hostess"
+        ]
+      },
+      {
+        "phone": "CALLER-C524390B",
+        "count": 4,
+        "reasons": [
+          "Request to speak to a human, to a person, to customer service, to the host or the hostess"
+        ]
+      },
+      {
+        "phone": "CALLER-A792E8FF",
+        "count": 4,
+        "reasons": [
+          "Request to speak to a human, to a person, to customer service, to the host or the hostess",
+          "Placing an Order for Takeout or Delivery"
+        ]
+      },
+      {
+        "phone": "CALLER-5D48B7A5",
+        "count": 4,
+        "reasons": [
+          "Unclassified",
+          "Placing an Order for Takeout or Delivery"
+        ]
+      },
+      {
+        "phone": "CALLER-BA81418B",
+        "count": 3,
+        "reasons": [
+          "Placing an Order for Takeout or Delivery",
+          "Request to speak to a human, to a person, to customer service, to the host or the hostess"
+        ]
+      },
+      {
+        "phone": "CALLER-6BA11658",
+        "count": 3,
+        "reasons": [
+          "Request to speak to a human, to a person, to customer service, to the host or the hostess"
+        ]
+      },
+      {
+        "phone": "CALLER-2FA91DCD",
+        "count": 3,
+        "reasons": [
+          "Unclassified",
+          "Request to speak to a human, to a person, to customer service, to the host or the hostess"
+        ]
+      },
+      {
+        "phone": "CALLER-97EBC7EE",
+        "count": 2,
+        "reasons": [
+          "Request to speak to a human, to a person, to customer service, to the host or the hostess"
+        ]
+      },
+      {
+        "phone": "CALLER-AA7AD7B2",
+        "count": 2,
+        "reasons": [
+          "Request to speak to a human, to a person, to customer service, to the host or the hostess"
+        ]
+      }
+    ],
+    "possibleBot": [
+      "CALLER-D8C5436F"
+    ]
+  },
+  "sentimentStats": {
+    "byRestaurant": {
+      "TF Oakwood": {
+        "frustration": 102,
+        "satisfaction": 150,
+        "frustrationRate": 0.68
+      },
+      "RT Buckhead": {
+        "frustration": 47,
+        "satisfaction": 79,
+        "frustrationRate": 0.31333333333333335
+      }
+    }
+  },
+  "languageStats": {
+    "byRestaurant": {
+      "TF Oakwood": {
+        "es": 150,
+        "en": 0,
+        "mixed": 0
+      },
+      "RT Buckhead": {
+        "es": 1,
+        "en": 148,
+        "mixed": 1
+      }
+    },
+    "mismatchedCalls": 1
+  },
+  "partySizeStats": {
+    "callsWithPartySize": 57,
+    "distribution": {
+      "2": 14,
+      "3": 5,
+      "4": 4,
+      "5": 4,
+      "6": 3,
+      "7": 4,
+      "8": 14,
+      "9": 3,
+      "10": 3,
+      "12": 2,
+      "15": 1
+    },
+    "largePartyRate": 0.11333333333333333
+  },
+  "officeHoursStats": {
+    "within": 296,
+    "outside": 0,
+    "unknown": 4
+  }
+}
